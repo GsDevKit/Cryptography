@@ -25,7 +25,6 @@ baseline: spec
                 yourself ];
         yourself.
       spec
-        group: 'default' with: #('Core');
         group: 'CI' with: #('Cryptography');
         yourself ].
   spec
