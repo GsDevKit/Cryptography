@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfCryptography",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 11/18/2014 11:19",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfCryptography",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
