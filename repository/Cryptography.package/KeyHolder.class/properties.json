@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 2/9/2007 11:10",
+	"instvars" : [
+		"data",
+		"random",
+		"randomChangeProcess" ],
+	"name" : "KeyHolder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

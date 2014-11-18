@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"blockSize" : "len 8/9/2002 13:12",
+		"keySize" : "len 8/9/2002 13:12" },
+	"instance" : {
+		"decryptBlock:" : "hmm 10/2/2006 22:42",
+		"encryptBlock:" : "hmm 10/2/2006 22:21",
+		"key:" : "hmm 10/2/2006 21:51",
+		"key:encrypt:" : "hmm 10/2/2006 21:52",
+		"primCookKey:mode:to:" : "PaulDeBruicker 11/30/2010 15:04",
+		"primPluginAvailable" : "PaulDeBruicker 11/30/2010 15:04",
+		"primTransform:using:" : "PaulDeBruicker 11/30/2010 15:04",
+		"transform:" : "rww 7/25/2010 03:27" } }

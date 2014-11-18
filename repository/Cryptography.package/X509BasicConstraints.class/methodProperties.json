@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"initializeASN1Types" : "rww 3/28/2007 19:36" },
+	"instance" : {
+		"ca" : "rww 3/28/2007 19:35",
+		"ca:" : "rww 3/28/2007 19:35",
+		"pathLengthConstraint" : "rww 3/28/2007 19:35",
+		"pathLengthConstraint:" : "rww 3/28/2007 19:35" } }

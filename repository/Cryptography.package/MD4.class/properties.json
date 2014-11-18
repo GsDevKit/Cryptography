@@ -1,0 +1,19 @@
+{
+	"category" : "Cryptography-MD4",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"a",
+		"b",
+		"c",
+		"d",
+		"input",
+		"output" ],
+	"name" : "MD4",
+	"pools" : [
+		 ],
+	"super" : "HashFunction",
+	"type" : "normal" }

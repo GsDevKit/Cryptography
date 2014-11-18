@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptoDESTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

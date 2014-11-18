@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "X520LocalityName",
+	"pools" : [
+		 ],
+	"super" : "X520AbstractName",
+	"type" : "normal" }

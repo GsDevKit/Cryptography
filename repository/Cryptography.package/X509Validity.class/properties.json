@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"notBefore",
+		"notAfter" ],
+	"name" : "X509Validity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

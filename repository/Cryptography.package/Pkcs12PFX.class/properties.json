@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"authSafe",
+		"macData" ],
+	"name" : "Pkcs12PFX",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

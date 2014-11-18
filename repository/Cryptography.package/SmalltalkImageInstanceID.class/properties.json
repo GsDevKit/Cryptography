@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InstanceID" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SmalltalkImageInstanceID",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

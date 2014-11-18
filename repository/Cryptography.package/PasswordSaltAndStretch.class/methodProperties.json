@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 2/9/2007 16:16",
+		"defaultR" : "RJT 2/9/2007 15:52",
+		"hashForPassword:" : "RJT 2/9/2007 15:52",
+		"hashForPassword:r:" : "RJT 5/2/2007 15:53",
+		"hashForPassword:r:s:" : "RJT 2/9/2007 15:46",
+		"hashForPassword:s:" : "RJT 2/9/2007 15:52" },
+	"instance" : {
+		"r" : "RJT 2/9/2007 15:31",
+		"r:" : "RJT 2/9/2007 15:31",
+		"s" : "RJT 2/9/2007 15:46",
+		"s:" : "RJT 2/9/2007 15:46",
+		"saltAndStretch:" : "RJT 2/9/2007 15:47" } }

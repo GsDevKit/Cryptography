@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptoRC2Test",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

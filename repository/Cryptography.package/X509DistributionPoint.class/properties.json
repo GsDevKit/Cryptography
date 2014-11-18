@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"distributionPoint",
+		"reasons",
+		"cRLIssuer" ],
+	"name" : "X509DistributionPoint",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

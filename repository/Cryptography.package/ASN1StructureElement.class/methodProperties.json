@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decode:withDERStream:" : "rww 4/14/2007 10:52",
+		"default" : "rww 3/23/2007 15:37",
+		"default:" : "rww 3/23/2007 15:37",
+		"encode:withDERStream:" : "rww 3/27/2007 16:26",
+		"hasDefault" : "rww 3/23/2007 20:54",
+		"hasDefaultOrIsOptional" : "rww 3/23/2007 20:54",
+		"initialize" : "rww 3/23/2007 15:38",
+		"isOptional" : "rww 3/23/2007 20:54",
+		"isTypeFor:" : "rww 3/25/2007 23:11",
+		"mutator" : "rww 3/25/2007 23:11",
+		"optional" : "rww 3/23/2007 15:37",
+		"optional:" : "rww 3/23/2007 15:37",
+		"value:into:" : "rww 3/25/2007 23:11",
+		"valueFrom:" : "rww 3/25/2007 23:11" } }

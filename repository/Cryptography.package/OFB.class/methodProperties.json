@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"advanceVector" : "cmm 3/1/2006 23:04",
+		"decryptBlock:" : "cmm 3/1/2006 22:44",
+		"encryptBlock:" : "cmm 3/1/2006 23:02",
+		"isStreamCipher" : "cmm 3/2/2006 23:51" } }

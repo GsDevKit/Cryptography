@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"wheel",
+		"candidate" ],
+	"name" : "PrimesFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

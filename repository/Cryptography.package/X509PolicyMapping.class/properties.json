@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"issuerDomainPolicy",
+		"subjectDomainPolicy" ],
+	"name" : "X509PolicyMapping",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

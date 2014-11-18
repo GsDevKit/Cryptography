@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asAsn1Bytes" : "rww 3/28/2007 12:03",
+		"extensions" : "rww 9/15/2006 13:09",
+		"extensions:" : "rww 9/15/2006 13:09",
+		"issuer" : "rww 9/15/2006 13:09",
+		"issuer:" : "rww 9/15/2006 13:09",
+		"issuerUniqueID" : "rww 3/25/2007 18:06",
+		"serialNumber" : "rww 9/15/2006 13:09",
+		"serialNumber:" : "rww 9/15/2006 13:09",
+		"signature" : "rww 9/15/2006 13:09",
+		"signature:" : "rww 9/15/2006 13:09",
+		"subject" : "rww 9/15/2006 13:09",
+		"subject:" : "rww 9/15/2006 13:09",
+		"subjectPublicKeyInfo" : "rww 9/15/2006 13:09",
+		"subjectPublicKeyInfo:" : "rww 9/15/2006 13:09",
+		"subjectUniqueID" : "rww 3/25/2007 18:06",
+		"validity" : "rww 9/15/2006 13:09",
+		"validity:" : "rww 9/15/2006 13:09",
+		"version" : "rww 9/15/2006 13:09",
+		"version:" : "rww 9/15/2006 13:09" } }

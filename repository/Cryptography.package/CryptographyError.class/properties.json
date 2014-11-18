@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptographyError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

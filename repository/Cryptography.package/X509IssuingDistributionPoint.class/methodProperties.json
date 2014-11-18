@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"distributionPoint" : "rww 3/28/2007 21:14",
+		"distributionPoint:" : "rww 3/28/2007 21:14",
+		"indirectCRL" : "rww 3/28/2007 21:14",
+		"indirectCRL:" : "rww 3/28/2007 21:14",
+		"onlyContainsAttributeCerts" : "rww 3/28/2007 21:14",
+		"onlyContainsAttributeCerts:" : "rww 3/28/2007 21:14",
+		"onlyContainsCACerts" : "rww 3/28/2007 21:14",
+		"onlyContainsCACerts:" : "rww 3/28/2007 21:14",
+		"onlyContainsUserCerts" : "rww 3/28/2007 21:14",
+		"onlyContainsUserCerts:" : "rww 3/28/2007 21:14",
+		"onlySomeReasons" : "rww 3/28/2007 21:14",
+		"onlySomeReasons:" : "rww 3/28/2007 21:14" } }

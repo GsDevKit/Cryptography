@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isProbablyPrime:" : "len 10/26/2002 16:25" },
+	"instance" : {
+		"error" : "len 8/3/2002 21:30",
+		"iterate" : "cmm 2/15/2006 00:06",
+		"iterations" : "len 1/26/1999 19:42",
+		"reset" : "cmm 2/15/2006 00:06",
+		"satisfied" : "len 1/26/1999 19:43",
+		"target:" : "len 1/26/1999 19:44" } }

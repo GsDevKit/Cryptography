@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HashFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

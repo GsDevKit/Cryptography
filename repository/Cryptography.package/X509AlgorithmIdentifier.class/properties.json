@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oid",
+		"parameters",
+		"hasParameters" ],
+	"name" : "X509AlgorithmIdentifier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

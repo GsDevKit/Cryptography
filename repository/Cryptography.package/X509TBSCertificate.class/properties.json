@@ -1,0 +1,21 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"serialNumber",
+		"signature",
+		"issuer",
+		"validity",
+		"subject",
+		"subjectPublicKeyInfo",
+		"extensions" ],
+	"name" : "X509TBSCertificate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

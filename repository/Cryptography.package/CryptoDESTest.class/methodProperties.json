@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDES" : "rww 10/5/2006 07:33",
+		"testDES2" : "PaulDeBruicker 11/30/2010 14:57",
+		"testDES3" : "PaulDeBruicker 11/30/2010 14:57",
+		"testDESCBC" : "rww 3/30/2007 20:18",
+		"testDESFormal" : "rww 7/24/2010 00:10",
+		"testTripleDES" : "rww 10/5/2006 07:50",
+		"testTripleDESCBC" : "rww 3/30/2007 20:19" } }

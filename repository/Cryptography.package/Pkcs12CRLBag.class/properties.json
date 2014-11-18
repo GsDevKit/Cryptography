@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"crlId",
+		"crlValue" ],
+	"name" : "Pkcs12CRLBag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

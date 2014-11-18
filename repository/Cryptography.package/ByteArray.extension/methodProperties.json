@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"fromHexString:" : "RJT 8/6/2006 22:05" },
+	"instance" : {
+		"asByteArrayOfSize:" : "rww 4/11/2004 14:48",
+		"asInteger" : "len 10/15/2002 18:45",
+		"asn1Tag" : "rww 3/25/2007 10:43",
+		"bitXor:" : "cmm 2/16/2006 23:15",
+		"destroy" : "cmm 2/21/2006 00:05",
+		"hexStringInNibbles" : "rww 1/12/2003 22:08",
+		"isProperlyPadded" : "cmm 3/2/2006 21:14",
+		"padToMultipleOf:" : "cmm 3/2/2006 21:28",
+		"paddedSize:" : "cmm 3/2/2006 12:57",
+		"toEBase64String" : "rww 1/13/2003 02:12",
+		"uint:at:" : "cmm 2/23/2006 22:59",
+		"uint:at:put:" : "cmm 2/23/2006 13:32",
+		"unpad" : "cmm 3/3/2006 00:08",
+		"unpaddedSize" : "cmm 3/4/2006 15:08",
+		"unsigned40At:" : "cmm 2/23/2006 13:25",
+		"unsigned48At:" : "cmm 2/23/2006 13:25",
+		"unsigned56At:" : "cmm 2/23/2006 13:25",
+		"unsigned64At:" : "cmm 2/23/2006 13:25" } }

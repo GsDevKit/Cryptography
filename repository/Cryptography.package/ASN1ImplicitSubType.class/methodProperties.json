@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decodeWithDERStream:" : "rww 4/14/2007 12:23",
+		"encode:withDERStream:" : "rww 3/25/2007 23:45" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-ASN1-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mapping",
+		"mappingSymbol" ],
+	"name" : "ASN1MappingSubType",
+	"pools" : [
+		 ],
+	"super" : "ASN1SubType",
+	"type" : "normal" }

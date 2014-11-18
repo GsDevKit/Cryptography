@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-ElGamal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cs 12/5/2002 18:50",
+	"instvars" : [
+		"prime",
+		"generator",
+		"secret",
+		"sharedKey" ],
+	"name" : "DiffieHellman",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

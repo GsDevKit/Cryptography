@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accessor" : "rww 3/28/2007 07:10",
+		"decodeWithDERStream:" : "rww 3/28/2007 07:06",
+		"decodeWithDERStream:owner:ownerType:" : "rww 3/28/2007 07:07",
+		"encode:withDERStream:" : "rww 3/28/2007 07:10",
+		"encode:withDERStream:owner:ownerType:" : "rww 3/28/2007 07:10",
+		"mapping" : "rww 3/28/2007 05:59",
+		"mapping:" : "rww 3/28/2007 05:59",
+		"mapping:mappingSymbol:type:" : "rww 3/28/2007 10:49",
+		"mappingSymbol" : "rww 3/28/2007 05:59",
+		"mappingSymbol:" : "rww 3/28/2007 05:59",
+		"matchesTag:" : "rww 3/28/2007 06:00",
+		"mutator" : "rww 3/28/2007 07:10" } }

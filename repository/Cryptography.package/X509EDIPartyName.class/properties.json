@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nameAssigner",
+		"partyName" ],
+	"name" : "X509EDIPartyName",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

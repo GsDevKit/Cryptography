@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-X509-Readers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bytes" ],
+	"name" : "RSAPublicKeyFileReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

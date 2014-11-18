@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bagId",
+		"bagValue",
+		"bagAttributes" ],
+	"name" : "Pkcs12SafeBag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

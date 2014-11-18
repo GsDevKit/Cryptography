@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"extnId",
+		"extnCritical",
+		"extnValue",
+		"decodedExtension" ],
+	"name" : "X509CertificateExtension",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 2/9/2007 11:15",
+		"holdKey:" : "RJT 2/9/2007 11:10",
+		"readFromFile:password:" : "RJT 2/10/2007 22:10" },
+	"instance" : {
+		"data" : "RJT 2/9/2007 10:04",
+		"data:" : "RJT 2/9/2007 10:04",
+		"destroy" : "RJT 2/9/2007 11:01",
+		"encryptKey:" : "RJT 2/9/2007 10:18",
+		"initialize" : "RJT 5/2/2007 15:52",
+		"key" : "RJT 2/9/2007 10:34",
+		"random" : "RJT 2/9/2007 10:07",
+		"random:" : "RJT 2/9/2007 10:07",
+		"randomChangeLoop" : "RJT 5/2/2007 15:53",
+		"randomChangeProcess" : "RJT 2/9/2007 10:29",
+		"randomChangeProcess:" : "RJT 2/9/2007 10:29",
+		"writeToFile:password:" : "RJT 2/9/2007 16:13" } }

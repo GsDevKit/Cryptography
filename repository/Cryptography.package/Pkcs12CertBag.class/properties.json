@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"certId",
+		"certValue" ],
+	"name" : "Pkcs12CertBag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

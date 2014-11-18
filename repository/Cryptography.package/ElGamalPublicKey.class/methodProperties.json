@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"setModulo:generator:generatorRaisedToA:" : "cs 8/5/2002 20:01" },
+	"instance" : {
+		"encryptElement:" : "cmm 2/15/2006 00:03",
+		"hashFunction" : "cs 8/5/2002 20:27",
+		"setModulo:generator:generatorRaisedToA:" : "cs 8/5/2002 20:01",
+		"verifySignature:onMessage:" : "len 10/26/2002 16:31" } }

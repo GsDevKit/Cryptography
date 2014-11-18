@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"privateKey",
+		"publicKey" ],
+	"name" : "CryptoRSATest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

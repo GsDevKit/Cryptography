@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-ASN1-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tagIndex",
+		"tagValue",
+		"tagIsPrimitive" ],
+	"name" : "ASN1ExplicitContextValue",
+	"pools" : [
+		 ],
+	"super" : "ASN1Value",
+	"type" : "normal" }

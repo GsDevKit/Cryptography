@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"elGamalGeneratorOfSize:" : "rww 10/5/2006 06:47",
+		"elGamalSizes" : "rww 10/5/2006 16:09",
+		"initialize" : "rww 10/5/2006 06:46",
+		"initializeElGamalGenerators" : "rww 10/5/2006 06:47",
+		"performElGamalEncryption:" : "rww 10/5/2006 06:47",
+		"performElGamalSignature:" : "rww 10/5/2006 06:47",
+		"testElGamalEncryption" : "rww 10/5/2006 06:47",
+		"testElGamalSignature" : "rww 10/5/2006 06:48" } }

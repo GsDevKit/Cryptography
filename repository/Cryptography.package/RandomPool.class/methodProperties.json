@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"default" : "len 8/20/2002 01:39",
+		"new" : "len 8/4/2002 01:00",
+		"new:" : "len 8/20/2002 02:36" },
+	"instance" : {
+		"atEnd" : "len 8/20/2002 02:17",
+		"grabRandomBitsFromSoundInput:" : "len 8/28/2002 00:24",
+		"initializePoolSize:" : "len 8/20/2002 03:00",
+		"next" : "len 8/28/2002 00:05",
+		"next:" : "len 11/15/2002 23:20",
+		"nextPut:" : "len 8/20/2002 03:14",
+		"nextPutAll:" : "len 8/20/2002 03:14",
+		"stir" : "RJT 12/19/2006 15:51" } }

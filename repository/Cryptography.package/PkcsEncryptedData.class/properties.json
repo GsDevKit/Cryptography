@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"encryptedContentInfo" ],
+	"name" : "PkcsEncryptedData",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

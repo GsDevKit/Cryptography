@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"initSBox:from:" : "hmm 10/2/2006 21:39",
+		"initialize" : "hmm 10/2/2006 21:39" },
+	"instance" : {
+		"applyToSBoxes:" : "hmm 10/2/2006 21:29",
+		"blockSize" : "hmm 10/2/2006 21:30",
+		"coreProcess:forward:" : "hmm 10/2/2006 21:30",
+		"decryptBlock:" : "hmm 10/2/2006 21:30",
+		"encryptBlock:" : "hmm 10/2/2006 21:30",
+		"keySize" : "hmm 10/2/2006 21:30",
+		"setKey:" : "hmm 10/2/2006 21:29",
+		"setKeyFromByteArray:" : "hmm 10/2/2006 21:46" } }

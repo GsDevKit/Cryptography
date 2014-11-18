@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"base",
+		"minimum",
+		"maximum" ],
+	"name" : "X509GeneralSubtree",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

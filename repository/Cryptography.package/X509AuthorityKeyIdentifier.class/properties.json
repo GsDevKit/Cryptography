@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keyIdentifier",
+		"certIssuer",
+		"certSerialNumber" ],
+	"name" : "X509AuthorityKeyIdentifier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

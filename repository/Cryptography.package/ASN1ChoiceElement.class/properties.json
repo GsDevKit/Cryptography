@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-ASN1-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"symbol",
+		"type" ],
+	"name" : "ASN1ChoiceElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

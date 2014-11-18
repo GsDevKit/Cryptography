@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"fromFile:" : "rww 4/9/2007 07:47",
+		"fromFile:password:" : "rww 4/9/2007 07:47" },
+	"instance" : {
+		"asCertificate" : "rww 4/8/2007 20:36",
+		"asPrivateKey" : "rww 4/8/2007 20:36",
+		"certs" : "rww 4/9/2007 04:35",
+		"certs:" : "rww 4/8/2007 14:15",
+		"decodeContentInfo:" : "rww 4/13/2007 22:10",
+		"decodeSafeBag:" : "rww 9/28/2010 07:00",
+		"initializeFromFileContents:" : "rww 4/13/2007 22:10",
+		"password" : "rww 3/29/2007 16:57",
+		"password:" : "rww 3/29/2007 16:57",
+		"pfx" : "rww 3/29/2007 16:57",
+		"pfx:" : "rww 3/29/2007 16:57",
+		"privateKeys" : "rww 4/9/2007 04:36",
+		"privateKeys:" : "rww 4/8/2007 14:15",
+		"validatePFXMAC" : "rww 4/8/2007 16:20" } }

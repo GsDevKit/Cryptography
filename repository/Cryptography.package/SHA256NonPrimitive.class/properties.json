@@ -1,0 +1,21 @@
+{
+	"category" : "Cryptography-SHA256",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"totalA",
+		"totalB",
+		"totalC",
+		"totalD",
+		"totalE",
+		"totalF",
+		"totalG",
+		"totalH" ],
+	"name" : "SHA256NonPrimitive",
+	"pools" : [
+		 ],
+	"super" : "SHA256",
+	"type" : "normal" }

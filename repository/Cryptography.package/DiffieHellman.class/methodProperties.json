@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"bits:" : "len 10/26/2002 16:06",
+		"prime:generator:" : "len 10/26/2002 16:06" },
+	"instance" : {
+		"generator" : "len 10/26/2002 16:04",
+		"generator:" : "len 10/26/2002 16:04",
+		"prime" : "len 10/26/2002 16:03",
+		"prime:" : "len 10/26/2002 16:04",
+		"receiveMessage:" : "cs 8/21/2002 12:20",
+		"sendMessage" : "cmm 2/15/2006 00:04",
+		"setupPrimeOfSize:" : "len 10/25/2002 13:45",
+		"sharedKey" : "len 8/27/2002 23:52" } }

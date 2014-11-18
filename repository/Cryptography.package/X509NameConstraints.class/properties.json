@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"permittedSubtrees",
+		"excludedSubtrees" ],
+	"name" : "X509NameConstraints",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

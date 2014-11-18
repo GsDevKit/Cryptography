@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-DES",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"des1",
+		"des2",
+		"des3" ],
+	"name" : "TripleDES",
+	"pools" : [
+		 ],
+	"super" : "BlockCipher",
+	"type" : "normal" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"inhibitPolicyMapping" : "rww 3/28/2007 21:05",
+		"inhibitPolicyMapping:" : "rww 3/28/2007 21:05",
+		"requireExplicitPolicy" : "rww 3/29/2007 06:50",
+		"requireExplicitPolicy:" : "rww 3/29/2007 06:50" } }
