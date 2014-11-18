@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"digestAlgorithm" : "rww 4/12/2007 13:45",
+		"digestAlgorithm:" : "rww 4/12/2007 13:45",
+		"sid" : "rww 4/12/2007 13:45",
+		"sid:" : "rww 4/12/2007 13:45",
+		"signature" : "rww 4/12/2007 13:45",
+		"signature:" : "rww 4/12/2007 13:45",
+		"signatureAlgorithm" : "rww 4/12/2007 13:45",
+		"signatureAlgorithm:" : "rww 4/12/2007 13:45",
+		"signedAttrs" : "rww 4/12/2007 13:45",
+		"signedAttrs:" : "rww 4/12/2007 13:45",
+		"unsignedAttrs" : "rww 4/12/2007 13:45",
+		"unsignedAttrs:" : "rww 4/12/2007 13:45",
+		"version" : "rww 4/12/2007 13:45",
+		"version:" : "rww 4/12/2007 13:45" } }

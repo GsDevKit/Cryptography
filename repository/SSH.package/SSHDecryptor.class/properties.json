@@ -1,0 +1,15 @@
+{
+	"category" : "SSH-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pendingPacket",
+		"cipherState" ],
+	"name" : "SSHDecryptor",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"creationTime" : "hmm 12/28/2001 18:03",
+		"putSignatureDataOnHashStream:" : "hmm 12/28/2001 00:19",
+		"putUserIdPacket:onHashStream:" : "hmm 12/28/2001 00:15",
+		"readFrom:" : "hmm 12/28/2001 13:48",
+		"signer" : "hmm 12/28/2001 13:25" } }

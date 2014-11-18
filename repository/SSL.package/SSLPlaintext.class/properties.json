@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Records",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLPlaintext",
+	"pools" : [
+		 ],
+	"super" : "SSLRecord",
+	"type" : "normal" }

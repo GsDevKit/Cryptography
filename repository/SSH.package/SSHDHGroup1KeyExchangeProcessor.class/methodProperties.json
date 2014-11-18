@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"generator" : "rww 8/27/2007 11:36",
+		"prime" : "rww 8/27/2007 11:36" },
+	"instance" : {
+		"computeExchangeHashWithSecurityParams:" : "rww 9/1/2007 17:42",
+		"diffieHellman" : "rww 9/1/2007 10:39",
+		"e" : "rww 9/1/2007 10:39",
+		"e:" : "rww 9/1/2007 10:39",
+		"f" : "rww 9/1/2007 10:39",
+		"f:" : "rww 9/1/2007 10:39",
+		"hashClass" : "rww 9/1/2007 10:39",
+		"initialize" : "rww 8/27/2007 11:34",
+		"processClientDHInitMsg:" : "rww 9/1/2007 10:42",
+		"processServerDHReplyMsg:securityParams:" : "rww 9/1/2007 17:43",
+		"secret" : "rww 8/27/2007 11:44",
+		"setupClientDHInitMsg:" : "rww 9/1/2007 10:41",
+		"setupServerDHReplyMsg:securityParams:" : "rww 9/1/2007 23:50" } }

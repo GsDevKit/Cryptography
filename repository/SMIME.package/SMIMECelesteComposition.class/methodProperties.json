@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addAttachment" : "rww 5/14/2007 09:55",
+		"attachments" : "rww 5/13/2007 18:04",
+		"attachments:" : "rww 5/13/2007 18:04",
+		"attachmentsText" : "rww 5/13/2007 19:15",
+		"attachmentsText:" : "rww 5/13/2007 19:15",
+		"buildMessage" : "rww 6/3/2007 18:42",
+		"celeste:to:subject:initialText:" : "rww 5/13/2007 18:12",
+		"forgetIt" : "rww 5/13/2007 18:34",
+		"messageText" : "rww 5/13/2007 18:04",
+		"messageText:" : "rww 5/13/2007 18:04",
+		"openInMorphic" : "rww 5/14/2007 07:55",
+		"shouldEncrypt" : "rww 5/13/2007 17:44",
+		"shouldEncrypt:" : "rww 5/13/2007 17:44",
+		"shouldSign" : "rww 5/13/2007 17:44",
+		"shouldSign:" : "rww 5/13/2007 17:44",
+		"smimeAgent" : "rww 6/3/2007 16:28",
+		"subject" : "rww 5/13/2007 17:44",
+		"subject:" : "rww 5/13/2007 17:44",
+		"submit" : "rww 5/14/2007 10:24",
+		"to" : "rww 5/13/2007 17:44",
+		"to:" : "rww 5/13/2007 17:44",
+		"toggleEncrypted" : "rww 6/4/2007 19:09",
+		"toggleSign" : "rww 6/4/2007 08:56" } }

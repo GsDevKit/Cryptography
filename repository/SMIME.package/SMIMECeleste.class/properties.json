@@ -1,0 +1,14 @@
+{
+	"category" : "SMIME",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"smimeAgent" ],
+	"name" : "SMIMECeleste",
+	"pools" : [
+		 ],
+	"super" : "ScaffoldingCeleste",
+	"type" : "normal" }

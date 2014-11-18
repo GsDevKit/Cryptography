@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newOnConn:" : "rww 9/29/2006 17:22" },
+	"instance" : {
+		"conn" : "rww 9/29/2006 17:06",
+		"conn:" : "rww 9/29/2006 17:06",
+		"handleDataReceived:" : "rww 9/29/2006 17:17",
+		"initializeOnConn:" : "rww 9/29/2006 17:21",
+		"initializeProcess" : "rww 9/29/2006 17:11",
+		"process" : "rww 9/29/2006 17:11",
+		"process:" : "rww 9/29/2006 17:06",
+		"processLoop" : "rww 9/29/2006 19:51",
+		"send:" : "rww 9/29/2006 19:38",
+		"start" : "rww 9/29/2006 17:21",
+		"stop" : "rww 12/14/2006 11:41",
+		"waitForConnectionUntil:" : "rww 9/29/2006 17:14" } }

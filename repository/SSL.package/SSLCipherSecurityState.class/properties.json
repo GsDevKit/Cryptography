@@ -1,0 +1,18 @@
+{
+	"category" : "SSL-Encryption",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hashSize",
+		"readKey",
+		"writeKey",
+		"ivReadKey",
+		"ivWriteKey" ],
+	"name" : "SSLCipherSecurityState",
+	"pools" : [
+		 ],
+	"super" : "SSLStageSecurityState",
+	"type" : "normal" }

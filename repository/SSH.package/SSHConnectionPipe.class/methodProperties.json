@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicReceive:" : "rww 10/1/2007 15:06",
+		"basicSend:" : "rww 10/1/2007 15:06",
+		"close" : "rww 9/17/2007 16:53",
+		"makeClient" : "rww 10/1/2007 17:50",
+		"makeServer" : "rww 9/17/2007 16:53",
+		"processChannelClose:" : "rww 10/1/2007 18:14",
+		"processChannelData:" : "rww 10/1/2007 15:07",
+		"processChannelEOF:" : "rww 10/1/2007 18:11",
+		"processChannelOpen:" : "rww 10/1/2007 16:17",
+		"processChannelOpenConfirmation:" : "rww 10/1/2007 16:19",
+		"processChannelRequest:" : "rww 10/1/2007 18:05",
+		"processChannelWindowAdjust:" : "rww 10/1/2007 17:57",
+		"receive:" : "rww 10/2/2007 18:57",
+		"send:" : "rww 10/2/2007 18:57",
+		"sendDataMsg:" : "rww 10/1/2007 16:21",
+		"socket" : "rww 9/17/2007 16:48",
+		"socket:" : "rww 9/17/2007 16:48",
+		"switchToClosed" : "rww 9/17/2007 16:53",
+		"transportCap" : "rww 9/17/2007 16:48",
+		"transportCap:" : "rww 9/17/2007 16:48" } }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"newOnMachine:" : "rww 9/8/2006 15:24" },
+	"instance" : {
+		"addMsgSenderClass:" : "rww 9/14/2006 19:55",
+		"addStateClass:" : "rww 9/17/2006 18:00",
+		"connection" : "rww 9/9/2006 11:20",
+		"initializeOnMachine:" : "rww 9/10/2006 13:37",
+		"machine" : "rww 9/8/2006 15:19",
+		"process:" : "rww 9/7/2006 16:11",
+		"release" : "rww 9/8/2006 15:24",
+		"securityCoord" : "rww 9/12/2006 11:22",
+		"securityParams" : "rww 9/10/2006 09:53",
+		"sendAlertCode:" : "rww 9/27/2006 19:54",
+		"sendHelloRequest" : "rww 9/17/2006 19:14",
+		"sendInitialMessages" : "rww 9/9/2006 16:38" } }

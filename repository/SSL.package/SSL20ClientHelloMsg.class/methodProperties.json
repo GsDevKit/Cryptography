@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"example" : "rww 9/7/2006 12:51",
+		"example2" : "rww 9/7/2006 12:49",
+		"fromBytes:" : "rww 9/7/2006 11:42",
+		"fromStream:" : "rww 9/5/2006 20:54",
+		"isSSL30Msg" : "rww 9/12/2006 13:38",
+		"isTLS10Msg" : "rww 9/12/2006 13:38",
+		"isTLS11Msg" : "rww 9/12/2006 13:38",
+		"type" : "rww 9/7/2006 10:58" },
+	"instance" : {
+		"asByteArray" : "rww 9/21/2006 12:47",
+		"cipherSuites" : "rww 9/8/2006 16:44",
+		"cipherSuites:" : "rww 9/8/2006 16:44",
+		"clientVersion" : "rww 9/5/2006 20:52",
+		"clientVersion:" : "rww 9/5/2006 20:52",
+		"fromStream:" : "rww 9/29/2006 14:37",
+		"is20ClientHello" : "rww 9/17/2006 15:39",
+		"isClientHello" : "rww 9/10/2006 09:00",
+		"processOnConnection:" : "rww 9/11/2006 10:37",
+		"random" : "rww 9/8/2006 16:44",
+		"random:" : "rww 9/8/2006 16:44",
+		"sessionId" : "rww 9/5/2006 20:52",
+		"sessionId:" : "rww 9/5/2006 20:52" } }

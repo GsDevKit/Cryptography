@@ -1,0 +1,20 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hStore",
+		"selectedCertificate",
+		"certProviderInfo",
+		"cryptProvider",
+		"hKey",
+		"exportedKeySize",
+		"exportedKey" ],
+	"name" : "Win32FFICertificateStore",
+	"pools" : [
+		 ],
+	"super" : "CertificateStoreAbstract",
+	"type" : "normal" }

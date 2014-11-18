@@ -1,0 +1,18 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AllSuites" ],
+	"commentStamp" : "RJT 7/18/2006 14:39",
+	"instvars" : [
+		"cipherID",
+		"cipherSuiteSymbol",
+		"cipherSuite",
+		"keyExchange",
+		"hashAlgorithm" ],
+	"name" : "TLSCipherSuiteRon",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

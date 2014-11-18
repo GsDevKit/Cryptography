@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"on:" : "hmm 4/7/2002 14:30",
+		"onStream:" : "hmm 4/7/2002 14:30",
+		"parsePackets:" : "" },
+	"instance" : {
+		"atEnd" : "hmm 12/28/2001 13:38",
+		"binary" : "hmm 12/28/2001 13:37",
+		"close" : "hmm 12/28/2001 17:42",
+		"mpisUpToEnd" : "hmm 12/28/2001 13:48",
+		"next" : "hmm 12/28/2001 13:37",
+		"next:" : "",
+		"nextMPI" : "hmm 4/4/2002 22:09",
+		"nextNewFormatPacketLength" : "hmm 12/28/2001 13:39",
+		"nextNumber:" : "Hans-Martin Mosner 10/20/2005 23:37",
+		"nextPacket" : "hmm 3/30/2002 14:52",
+		"nextPacketsUpToEnd" : "hmm 3/29/2002 21:49",
+		"nextS2KSpecifier" : "hmm 1/28/2002 21:21",
+		"nextSubpacketData" : "",
+		"on:" : "Hans-Martin Mosner 10/20/2005 23:48" } }

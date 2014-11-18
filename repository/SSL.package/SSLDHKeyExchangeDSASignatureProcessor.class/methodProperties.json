@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"processServerCertificateMsg:forCoord:" : "rww 3/27/2007 21:18",
+		"processServerKeyExchange:forCoord:" : "rww 3/28/2007 11:27",
+		"setupServerCertificateMsg:forCoord:" : "rww 9/28/2006 13:49",
+		"setupServerKeyExchange:forCoord:" : "rww 3/28/2007 12:07" } }

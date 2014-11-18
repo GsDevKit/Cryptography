@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isSSL30Msg" : "rww 9/24/2006 18:00",
+		"isTLS10Msg" : "rww 9/24/2006 18:00",
+		"isTLS11Msg" : "rww 9/24/2006 18:00",
+		"type" : "rww 9/24/2006 17:59" },
+	"instance" : {
+		"asByteArray" : "rww 9/24/2006 17:52",
+		"exchangeKeys" : "rww 9/24/2006 17:51",
+		"exchangeKeys:" : "rww 9/24/2006 17:51",
+		"fromStream:withSecurityParams:" : "rww 9/24/2006 17:55",
+		"initialize" : "rww 9/24/2006 17:51",
+		"isClientKeyExchange" : "rww 9/24/2006 17:52" } }

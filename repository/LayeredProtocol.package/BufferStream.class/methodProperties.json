@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"on:" : "bolot 12/16/2000 01:44" },
+	"instance" : {
+		"contents" : "bolot 12/16/2000 01:36",
+		"includes:" : "rww 6/29/2010 05:08",
+		"includesAll:" : "rww 6/29/2010 05:08",
+		"isEmpty" : "bolot 12/16/2000 01:37",
+		"match:" : "bolot 12/19/2000 00:21",
+		"next" : "rww 6/29/2010 05:08",
+		"next:" : "rww 6/29/2010 05:08",
+		"nextPutAll:" : "rww 6/29/2010 05:08",
+		"on:" : "rww 6/29/2010 05:08",
+		"printOn:" : "bolot 12/16/2000 01:41",
+		"reset" : "rew 5/19/2001 13:08",
+		"size" : "bolot 12/16/2000 01:43",
+		"upTo:" : "rww 6/29/2010 05:09",
+		"upToAll:" : "rww 6/29/2010 05:09",
+		"upToEnd" : "rww 6/29/2010 05:09" } }

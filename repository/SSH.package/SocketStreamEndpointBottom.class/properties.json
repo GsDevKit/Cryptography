@@ -1,0 +1,15 @@
+{
+	"category" : "SSH-Stack-Sockets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socketStream",
+		"serverProcess" ],
+	"name" : "SocketStreamEndpointBottom",
+	"pools" : [
+		 ],
+	"super" : "DuplexProtocolStackBottomCap",
+	"type" : "normal" }

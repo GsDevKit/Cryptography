@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cipherState" ],
+	"name" : "SSLDecryptor",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

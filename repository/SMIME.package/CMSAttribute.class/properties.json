@@ -1,0 +1,15 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attrType",
+		"attrValues" ],
+	"name" : "CMSAttribute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

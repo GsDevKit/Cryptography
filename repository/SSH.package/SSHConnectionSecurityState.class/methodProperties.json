@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"newOnConnection:" : "rww 8/20/2007 16:41" },
+	"instance" : {
+		"cipherState" : "rww 8/20/2007 16:40",
+		"cipherState:" : "rww 8/20/2007 16:40",
+		"compressionState" : "rww 8/20/2007 16:40",
+		"compressionState:" : "rww 8/20/2007 16:40",
+		"connection" : "rww 8/20/2007 16:40",
+		"connection:" : "rww 8/20/2007 16:40",
+		"incrementSequenceNumber" : "rww 8/20/2007 16:41",
+		"initialize" : "rww 8/20/2007 16:41",
+		"macState" : "rww 8/20/2007 16:40",
+		"macState:" : "rww 8/20/2007 16:40",
+		"packagerState" : "rww 8/25/2007 09:46",
+		"packagerState:" : "rww 8/25/2007 09:46",
+		"sequenceNumber" : "rww 8/20/2007 16:40",
+		"sequenceNumber:" : "rww 8/20/2007 16:40" } }

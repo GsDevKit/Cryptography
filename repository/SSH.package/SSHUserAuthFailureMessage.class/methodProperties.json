@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"type" : "rww 9/8/2007 12:05" },
+	"instance" : {
+		"asByteArray" : "rww 9/8/2007 12:01",
+		"authentications" : "rww 9/8/2007 11:59",
+		"authentications:" : "rww 9/8/2007 11:59",
+		"fromStream:" : "rww 9/8/2007 12:02",
+		"initialize" : "rww 9/8/2007 12:03",
+		"messageName" : "rww 9/8/2007 12:12",
+		"partialSuccess" : "rww 9/8/2007 11:59",
+		"partialSuccess:" : "rww 9/8/2007 11:59",
+		"process:" : "rww 9/8/2007 12:03" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"action:" : "",
+		"action:state:" : "",
+		"state:" : "",
+		"state:action:" : "" },
+	"instance" : {
+		"action" : "",
+		"action:" : "rww 6/29/2010 05:11",
+		"printOn:" : "",
+		"state" : "",
+		"state:" : "rww 6/29/2010 05:11",
+		"transitionFrom:for:with:" : "" } }

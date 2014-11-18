@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-State",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSHInitialReadConnectionState",
+	"pools" : [
+		 ],
+	"super" : "SSHConnectionSecurityState",
+	"type" : "normal" }

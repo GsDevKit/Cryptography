@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"messageName" : "rww 9/17/2007 10:43",
+		"type" : "rww 9/8/2007 15:23" },
+	"instance" : {
+		"asByteArray" : "rww 10/1/2007 17:08",
+		"fromStream:" : "rww 10/1/2007 17:09",
+		"process:" : "rww 9/17/2007 17:10",
+		"recipientChannel" : "rww 9/17/2007 17:10",
+		"recipientChannel:" : "rww 9/17/2007 17:10",
+		"requestType" : "rww 9/17/2007 17:10",
+		"requestType:" : "rww 9/17/2007 17:10",
+		"subMsg" : "rww 10/1/2007 16:30",
+		"subMsg:" : "rww 10/1/2007 16:30",
+		"wantReply" : "rww 9/17/2007 17:10",
+		"wantReply:" : "rww 9/17/2007 17:10" } }

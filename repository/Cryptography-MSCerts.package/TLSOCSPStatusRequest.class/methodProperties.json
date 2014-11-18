@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 7/26/2006 13:42",
+		"extensions" : "RJT 7/26/2006 14:19",
+		"extensions:" : "RJT 7/26/2006 14:19",
+		"parseFromStream:" : "RJT 7/26/2006 14:57",
+		"responders" : "RJT 7/26/2006 14:19",
+		"responders:" : "RJT 7/26/2006 14:19" },
+	"instance" : {
+		"extensions" : "RJT 7/26/2006 14:24",
+		"extensions:" : "RJT 7/26/2006 14:24",
+		"initialize" : "RJT 7/26/2006 14:41",
+		"responders" : "RJT 7/26/2006 14:24",
+		"responders:" : "RJT 7/26/2006 14:24" } }

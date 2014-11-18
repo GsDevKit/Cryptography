@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Connections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLConnectionClosed",
+	"pools" : [
+		 ],
+	"super" : "SSLConnectionState",
+	"type" : "normal" }

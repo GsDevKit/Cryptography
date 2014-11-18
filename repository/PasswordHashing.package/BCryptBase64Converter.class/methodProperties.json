@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"FromCharTable" : "PaulDeBruicker 4/26/2011 13:20",
+		"ToCharTable" : "PaulDeBruicker 4/26/2011 13:21",
+		"decodeInteger:" : "PaulDeBruicker 4/26/2011 13:00",
+		"encodeInteger:" : "PaulDeBruicker 4/26/2011 13:00",
+		"initialize" : "PaulDeBruicker 4/26/2011 13:01",
+		"mimeDecodeToBytes:" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeDecodeToChars:" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeEncode:" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeEncode:multiLine:" : "PaulDeBruicker 4/26/2011 13:00" },
+	"instance" : {
+		"initialize" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeDecode" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeDecodeToByteArray" : "PaulDeBruicker 4/26/2011 13:00",
+		"mimeEncode" : "PaulDeBruicker 4/26/2011 13:00",
+		"multiLine" : "PaulDeBruicker 4/26/2011 13:00",
+		"multiLine:" : "PaulDeBruicker 4/26/2011 13:00",
+		"nextValue" : "PaulDeBruicker 4/26/2011 13:00" } }

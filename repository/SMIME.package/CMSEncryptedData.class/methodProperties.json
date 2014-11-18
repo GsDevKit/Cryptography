@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"initializeASN1Types" : "rww 4/13/2007 16:50" },
+	"instance" : {
+		"encryptedContentInfo" : "rww 4/13/2007 08:55",
+		"encryptedContentInfo:" : "rww 4/13/2007 08:55",
+		"unprotectedAttrs" : "rww 4/13/2007 08:55",
+		"unprotectedAttrs:" : "rww 4/13/2007 08:55",
+		"version" : "rww 4/13/2007 08:55",
+		"version:" : "rww 4/13/2007 08:55" } }

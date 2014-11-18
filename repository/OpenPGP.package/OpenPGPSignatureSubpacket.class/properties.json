@@ -1,0 +1,14 @@
+{
+	"category" : "OpenPGP-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data" ],
+	"name" : "OpenPGPSignatureSubpacket",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

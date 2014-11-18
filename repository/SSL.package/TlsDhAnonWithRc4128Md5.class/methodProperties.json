@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"hexCode" : "" },
+	"instance" : {
+		"bulkCipherAlgorithm" : "",
+		"cipherName" : "rww 10/6/2006 13:19",
+		"cipherType" : "",
+		"hashSize" : "",
+		"keyExchangeAlgorithm" : "",
+		"keyMaterialLength" : "",
+		"macAlgorithm" : "",
+		"requiresServerCertificate" : "",
+		"signatureAlgorithm" : "" } }

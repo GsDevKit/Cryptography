@@ -1,0 +1,14 @@
+{
+	"category" : "SMIME",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"certStore" ],
+	"name" : "SMIMEAgent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"category" : "SMIME",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"celeste",
+		"messageText",
+		"to",
+		"subject",
+		"shouldEncrypt",
+		"shouldSign",
+		"attachments",
+		"textFields",
+		"morphicWindow" ],
+	"name" : "SMIMECelesteComposition",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

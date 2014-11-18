@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"type" : "rww 9/7/2006 15:47" },
+	"instance" : {
+		"asByteArray" : "cds 6/25/2010 09:55",
+		"cipherSuites" : "rww 9/5/2006 20:52",
+		"cipherSuites:" : "rww 9/5/2006 20:52",
+		"clientVersion" : "rww 9/5/2006 20:52",
+		"clientVersion:" : "rww 9/5/2006 20:52",
+		"compressionMethods" : "rww 9/5/2006 20:52",
+		"compressionMethods:" : "rww 9/5/2006 20:52",
+		"fromStream:" : "rww 9/29/2006 14:37",
+		"initialize" : "rww 9/29/2006 14:22",
+		"isClientHello" : "rww 9/10/2006 09:01",
+		"random" : "rww 9/5/2006 20:52",
+		"random:" : "rww 9/5/2006 20:52",
+		"sessionId" : "rww 9/5/2006 20:52",
+		"sessionId:" : "rww 9/5/2006 20:52" } }

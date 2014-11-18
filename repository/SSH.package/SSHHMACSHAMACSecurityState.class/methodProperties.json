@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"computeHash:" : "rww 9/2/2007 12:06",
+		"generateMAC:" : "rww 9/2/2007 23:19",
+		"hMAC" : "rww 9/1/2007 12:19",
+		"hMAC:" : "rww 9/1/2007 12:19",
+		"hashSize" : "rww 9/1/2007 18:55",
+		"keySize" : "rww 9/1/2007 18:56",
+		"macGenerator" : "rww 9/1/2007 12:21",
+		"macVerifier" : "rww 9/1/2007 12:21",
+		"readKey" : "rww 9/1/2007 12:19",
+		"readKey:" : "rww 9/1/2007 12:19",
+		"verifyMAC:" : "rww 9/2/2007 11:32",
+		"writeKey" : "rww 9/1/2007 12:19",
+		"writeKey:" : "rww 9/1/2007 12:19" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"type" : "rww 9/4/2006 12:34" },
+	"instance" : {
+		"asByteArray" : "rww 9/21/2006 12:45",
+		"certificateAuthorities" : "rww 9/10/2006 09:33",
+		"certificateAuthorities:" : "rww 9/10/2006 09:33",
+		"certificateTypes" : "rww 9/10/2006 09:33",
+		"certificateTypes:" : "rww 9/10/2006 09:33",
+		"fromStream:" : "jrd 10/30/2008 20:44",
+		"initialize" : "rww 9/10/2006 09:34",
+		"isCertificateRequest" : "rww 9/10/2006 09:00" } }

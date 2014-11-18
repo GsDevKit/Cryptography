@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Testing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLEchoConnHandler",
+	"pools" : [
+		 ],
+	"super" : "SSLConnHandler",
+	"type" : "normal" }

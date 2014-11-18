@@ -1,0 +1,20 @@
+{
+	"category" : "SSL-Stack-Sockets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Registry" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"portNumber",
+		"socketClass",
+		"process",
+		"priority",
+		"handlerBlock",
+		"lastError",
+		"socketsToDestroy" ],
+	"name" : "ConnectionListener",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

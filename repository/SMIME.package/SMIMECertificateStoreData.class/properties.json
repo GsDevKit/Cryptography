@@ -1,0 +1,16 @@
+{
+	"category" : "SMIME",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ownerCertificateList",
+		"ownerPrivateKey",
+		"certificateMap" ],
+	"name" : "SMIMECertificateStoreData",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"initialize" : "",
+		"new" : "",
+		"shutDown:" : "",
+		"startUp:" : "" },
+	"instance" : {
+		"close" : "",
+		"connectTo:port:" : "",
+		"name" : "",
+		"name:" : "",
+		"primSocketCloseConnection:" : "",
+		"primSocketReceiveDataAvailable:" : "" } }

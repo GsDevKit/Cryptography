@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 9/2/2006 15:52",
+		"askUserForCertificateOn:" : "RJT 8/27/2006 13:39",
+		"at:" : "RJT 8/27/2006 13:36",
+		"at:put:" : "RJT 8/27/2006 13:36",
+		"certificateCache" : "RJT 8/27/2006 14:15",
+		"certificateCache:" : "RJT 8/27/2006 14:15",
+		"initialize" : "RJT 8/27/2006 13:32",
+		"shutDown" : "RJT 8/27/2006 13:33" },
+	"instance" : {
+		 } }

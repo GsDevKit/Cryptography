@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"downProtocol" ],
+	"name" : "DuplexProtocolStackTopCap",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocolCap",
+	"type" : "normal" }

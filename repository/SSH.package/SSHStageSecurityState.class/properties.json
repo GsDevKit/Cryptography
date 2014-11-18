@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-State",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connSecurityState" ],
+	"name" : "SSHStageSecurityState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

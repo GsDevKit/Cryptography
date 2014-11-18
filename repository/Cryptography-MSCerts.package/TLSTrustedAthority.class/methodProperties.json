@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 7/26/2006 22:12",
+		"parseFromStream:" : "RJT 7/26/2006 22:55" },
+	"instance" : {
+		"certSha1Hash" : "RJT 7/26/2006 22:08",
+		"certSha1Hash:" : "RJT 7/26/2006 22:08",
+		"identifierType" : "RJT 7/26/2006 22:19",
+		"identifierType:" : "RJT 7/26/2006 22:19",
+		"keySha1Hash" : "RJT 7/26/2006 22:08",
+		"keySha1Hash:" : "RJT 7/26/2006 22:08",
+		"preAgreed" : "RJT 7/26/2006 22:08",
+		"preAgreed:" : "RJT 7/26/2006 22:08",
+		"x509Name" : "RJT 7/26/2006 22:08",
+		"x509Name:" : "RJT 7/26/2006 22:08" } }

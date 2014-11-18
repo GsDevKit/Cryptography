@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test128BitKey" : "hmm 1/5/2002 14:36",
+		"test40BitKey" : "hmm 1/5/2002 14:37",
+		"test80BitKey" : "hmm 1/5/2002 14:36" } }

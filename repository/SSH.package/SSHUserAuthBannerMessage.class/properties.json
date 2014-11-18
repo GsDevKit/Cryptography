@@ -1,0 +1,15 @@
+{
+	"category" : "SSH-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message",
+		"language" ],
+	"name" : "SSHUserAuthBannerMessage",
+	"pools" : [
+		 ],
+	"super" : "SSHBinaryMessage",
+	"type" : "normal" }

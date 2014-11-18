@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"blockSize" : "len 8/9/2002 13:12",
+		"initSBox:from:" : "hmm 1/1/2002 14:27",
+		"initialize" : "Hans-Martin Mosner 10/20/2005 23:15",
+		"keySize" : "len 8/9/2002 13:12" },
+	"instance" : {
+		"applyToSBoxes:" : "hmm 1/1/2002 14:26",
+		"blockSize" : "hmm 1/2/2002 13:20",
+		"coreProcess:forward:" : "hmm 1/1/2002 21:30",
+		"decryptBlock:" : "hmm 3/26/2002 18:09",
+		"encryptBlock:" : "hmm 3/26/2002 18:10",
+		"keySize" : "hmm 4/7/2002 14:39",
+		"setKey:" : "hmm 1/1/2002 17:13" } }

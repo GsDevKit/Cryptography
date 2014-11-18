@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 7/26/2006 15:28",
+	"instvars" : [
+		"rawData" ],
+	"name" : "TLSOCSPRequestPKIXExtensions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

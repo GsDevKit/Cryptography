@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"count" : "hmm 1/28/2002 21:20",
+		"hashAlgorithm" : "hmm 1/28/2002 21:21",
+		"hashBytes" : "hmm 1/28/2002 21:37",
+		"readFrom:" : "hmm 1/28/2002 21:30",
+		"salt" : "hmm 1/28/2002 21:21",
+		"stringToKey:numBytes:" : "hmm 3/28/2002 21:30",
+		"stringToKey:preload:" : "hmm 3/29/2002 14:55",
+		"type" : "hmm 1/28/2002 21:21" } }

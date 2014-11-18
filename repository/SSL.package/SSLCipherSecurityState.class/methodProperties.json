@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decrypt:" : "rww 9/9/2006 08:45",
+		"decryptor" : "rww 9/29/2006 14:25",
+		"encrypt:" : "rww 9/9/2006 08:58",
+		"encryptor" : "rww 9/29/2006 14:25",
+		"hashSize" : "rww 9/9/2006 10:40",
+		"hashSize:" : "rww 9/9/2006 10:40",
+		"ivReadKey" : "rww 9/12/2006 14:37",
+		"ivReadKey:" : "rww 9/12/2006 14:37",
+		"ivWriteKey" : "rww 9/12/2006 14:37",
+		"ivWriteKey:" : "rww 9/12/2006 14:37",
+		"readKey" : "rww 9/10/2006 15:10",
+		"readKey:" : "rww 9/10/2006 15:10",
+		"writeKey" : "rww 9/10/2006 15:10",
+		"writeKey:" : "rww 9/10/2006 15:10" } }

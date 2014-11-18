@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new" : "rww 11/29/2007 08:34",
+		"newHeaderSize:" : "rww 11/29/2007 08:34" },
+	"instance" : {
+		"buffer" : "rww 10/26/2002 17:50",
+		"downcall:" : "rww 10/26/2002 16:45",
+		"downcallAll:" : "rww 7/8/2010 22:20",
+		"hasNextHeader" : "rww 11/21/2002 01:38",
+		"header" : "rww 10/26/2002 18:13",
+		"header:" : "rww 10/26/2002 18:13",
+		"headerForChunk:" : "rww 10/27/2002 08:25",
+		"headerSize" : "rww 10/26/2002 18:13",
+		"headerSize:" : "rww 10/26/2002 18:13",
+		"install" : "rww 10/27/2002 08:19",
+		"processChunk" : "rww 7/8/2010 22:20",
+		"upcall:" : "rww 10/27/2002 08:30",
+		"upcallAll:" : "rww 10/30/2002 08:59" } }

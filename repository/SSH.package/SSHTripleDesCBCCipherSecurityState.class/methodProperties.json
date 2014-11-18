@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decrypt:" : "rww 9/2/2007 15:00",
+		"decryptor" : "rww 9/1/2007 12:17",
+		"encrypt:" : "rww 9/2/2007 02:48",
+		"encryptor" : "rww 9/1/2007 12:17",
+		"ivReadKey" : "rww 9/1/2007 12:15",
+		"ivReadKey:" : "rww 9/1/2007 12:15",
+		"ivSize" : "rww 9/1/2007 11:25",
+		"ivWriteKey" : "rww 9/1/2007 12:15",
+		"ivWriteKey:" : "rww 9/1/2007 12:15",
+		"keySize" : "rww 9/1/2007 11:25",
+		"readKey" : "rww 9/1/2007 12:15",
+		"readKey:" : "rww 9/1/2007 12:15",
+		"tripleDes" : "rww 9/1/2007 12:15",
+		"tripleDes:" : "rww 9/1/2007 12:15",
+		"writeKey" : "rww 9/1/2007 12:15",
+		"writeKey:" : "rww 9/1/2007 12:15" } }

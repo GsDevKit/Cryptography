@@ -1,0 +1,16 @@
+{
+	"category" : "SSH-Connections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transportCap",
+		"socket",
+		"stateMachine" ],
+	"name" : "SSHUserAuthPipe",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

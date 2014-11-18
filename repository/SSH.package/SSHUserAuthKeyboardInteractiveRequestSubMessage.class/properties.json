@@ -1,0 +1,15 @@
+{
+	"category" : "SSH-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"language",
+		"subMethods" ],
+	"name" : "SSHUserAuthKeyboardInteractiveRequestSubMessage",
+	"pools" : [
+		 ],
+	"super" : "SSHBinarySubMessage",
+	"type" : "normal" }

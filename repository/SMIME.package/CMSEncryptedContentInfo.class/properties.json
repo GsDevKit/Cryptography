@@ -1,0 +1,16 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contentType",
+		"contentEncryptionAlgorithm",
+		"encryptedContent" ],
+	"name" : "CMSEncryptedContentInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

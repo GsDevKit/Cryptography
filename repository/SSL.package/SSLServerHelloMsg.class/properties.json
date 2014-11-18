@@ -1,0 +1,18 @@
+{
+	"category" : "SSL-Handshake Msgs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"serverVersion",
+		"random",
+		"sessionId",
+		"cipherSuite",
+		"compressionMethod" ],
+	"name" : "SSLServerHelloMsg",
+	"pools" : [
+		 ],
+	"super" : "SSLHandshakeProtocolMsg",
+	"type" : "normal" }

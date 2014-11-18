@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"keyEncryptionAlgorithm" : "rww 4/13/2007 20:26",
+		"keyEncryptionAlgorithm:" : "rww 4/13/2007 20:26",
+		"originator" : "rww 4/13/2007 20:26",
+		"originator:" : "rww 4/13/2007 20:26",
+		"recipientEncryptedKeys" : "rww 4/13/2007 20:26",
+		"recipientEncryptedKeys:" : "rww 4/13/2007 20:26",
+		"userKeyingMaterial" : "rww 4/13/2007 20:26",
+		"userKeyingMaterial:" : "rww 4/13/2007 20:26",
+		"version" : "rww 4/13/2007 20:26",
+		"version:" : "rww 4/13/2007 20:26" } }

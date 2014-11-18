@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"putKeyPacket:onHashStream:" : "hmm 12/28/2001 00:11",
+		"putSignatureDataOnHashStream:" : "hmm 12/28/2001 00:14",
+		"putUserIdPacket:onHashStream:" : "hmm 12/28/2001 00:11",
+		"signatureType" : "hmm 12/28/2001 00:10",
+		"verifyKey:userId:" : "hmm 4/3/2002 23:31" } }

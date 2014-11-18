@@ -1,0 +1,15 @@
+{
+	"category" : "SSL-Stack-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isUpStack",
+		"duplexStack" ],
+	"name" : "HalfDuplexProtocolStack",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "normal" }

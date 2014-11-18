@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"initialize" : "Hans-Martin Mosner 10/20/2005 23:41",
+		"maintenanceTest" : "hmm 1/24/2002 23:21",
+		"maintenanceTest2" : "hmmosner 10/22/2005 10:32",
+		"sBoxFrom:" : "hmm 1/14/2002 21:27" },
+	"instance" : {
+		"blockSize" : "hmm 1/13/2002 16:44",
+		"decryptBlock:" : "hmm 3/26/2002 18:09",
+		"encrypt:forward:" : "hmm 1/14/2002 21:42",
+		"encryptBlock:" : "hmm 3/26/2002 18:09",
+		"setKey:" : "hmm 1/13/2002 22:25" } }

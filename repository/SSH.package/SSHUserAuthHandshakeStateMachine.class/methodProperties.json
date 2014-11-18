@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"newOnConnection:" : "rww 9/3/2007 18:07" },
+	"instance" : {
+		"addMsgSenderClass:" : "rww 9/3/2007 18:10",
+		"addStateClass:" : "rww 10/1/2007 13:03",
+		"connection" : "rww 9/3/2007 18:12",
+		"initializeOnConnection:" : "rww 9/4/2007 20:44",
+		"makeClient" : "rww 9/8/2007 11:43",
+		"messageSenders" : "rww 9/3/2007 18:12",
+		"pendingStates" : "rww 9/3/2007 18:12",
+		"processReceived:" : "rww 10/2/2007 18:56",
+		"processSent:" : "rww 10/2/2007 18:56",
+		"receiveMsg:" : "rww 10/2/2007 18:56",
+		"securityCoord" : "rww 9/3/2007 18:13",
+		"sendMessages" : "rww 9/3/2007 18:11",
+		"sendMsg:" : "rww 10/2/2007 18:56",
+		"state" : "rww 9/3/2007 18:12",
+		"transitionToNextState" : "rww 9/3/2007 18:11" } }

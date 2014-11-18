@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"newOnConnectionSecurityState:" : "rww 9/11/2006 15:43" },
+	"instance" : {
+		"connSecurityState" : "rww 9/11/2006 15:42",
+		"connSecurityState:" : "rww 9/11/2006 15:42",
+		"sendAlertCode:" : "rww 9/27/2006 19:50" } }

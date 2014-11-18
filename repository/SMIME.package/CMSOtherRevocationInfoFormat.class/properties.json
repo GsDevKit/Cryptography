@@ -1,0 +1,15 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"otherRevInfoFormat",
+		"otherRevInfo" ],
+	"name" : "CMSOtherRevocationInfoFormat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

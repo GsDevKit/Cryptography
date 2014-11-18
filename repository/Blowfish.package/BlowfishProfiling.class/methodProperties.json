@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"longTest" : "PaulDeBruicker 4/10/2012 13:43" },
+	"instance" : {
+		"initialize" : "PaulDeBruicker 4/10/2012 13:49",
+		"initializeClear" : "PaulDeBruicker 4/10/2012 13:49",
+		"initializeEncrypted" : "PaulDeBruicker 4/10/2012 13:49",
+		"initializeKeys" : "PaulDeBruicker 4/10/2012 13:49",
+		"longDecryptionTest" : "PaulDeBruicker 4/10/2012 13:50",
+		"longEncryptionTest" : "PaulDeBruicker 4/10/2012 13:50" } }

@@ -1,0 +1,6 @@
+{
+	"class" : {
+		"fromSshBinaryStream:" : "rww 8/28/2007 09:53" },
+	"instance" : {
+		"asByteArray" : "rww 9/1/2007 14:49",
+		"asSshByteArray" : "rww 9/1/2007 14:58" } }

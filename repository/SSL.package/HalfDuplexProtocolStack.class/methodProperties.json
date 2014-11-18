@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"newDownStackOn:" : "rww 9/6/2006 11:57",
+		"newUpStackOn:" : "rww 9/6/2006 11:58" },
+	"instance" : {
+		"duplexStack" : "rww 9/6/2006 11:57",
+		"duplexStack:" : "rww 9/6/2006 11:57",
+		"head" : "rww 9/6/2006 10:39",
+		"initialize" : "rww 9/6/2006 10:44",
+		"isUpStack" : "rww 9/6/2006 10:43",
+		"isUpStack:" : "rww 9/6/2006 10:43",
+		"kill" : "rww 9/6/2006 10:49",
+		"pop" : "rww 9/27/2006 20:10",
+		"popFirst" : "rww 9/8/2006 10:00",
+		"push:" : "rww 9/8/2006 10:00",
+		"pushFirst:" : "rww 9/8/2006 10:00",
+		"run" : "rww 9/6/2006 10:48",
+		"stop" : "rww 9/6/2006 14:22",
+		"tail" : "rww 9/6/2006 10:39" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"compressionState" ],
+	"name" : "SSHCompressor",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

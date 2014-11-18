@@ -1,0 +1,15 @@
+{
+	"category" : "OpenPGP-Algorithms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ChunkBits",
+		"ChunkMask" ],
+	"commentStamp" : "hmm 3/26/2002 18:15",
+	"instvars" : [
+		"tables" ],
+	"name" : "DESBitPermutation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

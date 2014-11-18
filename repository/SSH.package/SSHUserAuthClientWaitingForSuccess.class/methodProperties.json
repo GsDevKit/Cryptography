@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"processUserAuthFailure:" : "rww 10/1/2007 12:52",
+		"processUserAuthInfoRequest:" : "rww 10/1/2007 16:00",
+		"processUserAuthSuccess:" : "rww 10/1/2007 12:51",
+		"switchToConnectionPipe" : "rww 10/1/2007 12:56" } }

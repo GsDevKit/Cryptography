@@ -1,0 +1,15 @@
+{
+	"category" : "SSL-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"level",
+		"descriptionCode" ],
+	"name" : "SSLAlert",
+	"pools" : [
+		 ],
+	"super" : "SSLMessage",
+	"type" : "normal" }

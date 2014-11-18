@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 7/24/2006 23:46",
+	"instvars" : [
+		"statusType",
+		"request" ],
+	"name" : "TLSHelloExtensionStatusRequest",
+	"pools" : [
+		 ],
+	"super" : "TLSHelloExtension",
+	"type" : "normal" }

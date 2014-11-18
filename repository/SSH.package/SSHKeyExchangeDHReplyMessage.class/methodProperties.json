@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"type" : "rww 8/26/2007 20:05" },
+	"instance" : {
+		"asByteArray" : "rww 9/1/2007 23:49",
+		"decodePublicHostKeyAndCertificates" : "rww 8/28/2007 10:08",
+		"decodeSignature" : "rww 8/28/2007 10:07",
+		"encodePublicHostKeyAndCertificates" : "rww 9/1/2007 23:49",
+		"encodeSignature" : "rww 9/1/2007 23:48",
+		"f" : "rww 8/26/2007 20:22",
+		"f:" : "rww 8/26/2007 20:22",
+		"fromStream:" : "rww 9/1/2007 17:32",
+		"messageName" : "rww 9/2/2007 10:05",
+		"process:" : "rww 8/27/2007 15:35",
+		"publicHostKeyAndCertificates" : "rww 8/26/2007 20:22",
+		"publicHostKeyAndCertificates:" : "rww 8/26/2007 20:22",
+		"signature" : "rww 8/26/2007 20:22",
+		"signature:" : "rww 8/26/2007 20:22" } }

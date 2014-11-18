@@ -1,0 +1,15 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eContentType",
+		"eContent" ],
+	"name" : "CMSEncapsulatedContentInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

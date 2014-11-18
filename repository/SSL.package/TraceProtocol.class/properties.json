@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tag" ],
+	"name" : "TraceProtocol",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

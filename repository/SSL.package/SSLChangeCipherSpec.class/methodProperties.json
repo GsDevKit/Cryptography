@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"type" : "rww 9/7/2006 11:49" },
+	"instance" : {
+		"asByteArray" : "rww 9/10/2006 17:14",
+		"asPlaintextRecord" : "rww 9/29/2006 14:20",
+		"fromStream:" : "rww 9/7/2006 11:23",
+		"processOnConnection:" : "rww 9/7/2006 11:58",
+		"type" : "rww 9/4/2006 12:12",
+		"type:" : "rww 9/4/2006 12:12" } }

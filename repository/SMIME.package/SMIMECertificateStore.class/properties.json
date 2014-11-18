@@ -1,0 +1,16 @@
+{
+	"category" : "SMIME",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"storeData",
+		"password",
+		"rootCertificates" ],
+	"name" : "SMIMECertificateStore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

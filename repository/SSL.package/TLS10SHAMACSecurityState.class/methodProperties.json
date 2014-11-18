@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"computeHash:" : "rww 9/27/2006 14:56",
+		"generateMAC:" : "rww 9/29/2006 14:19",
+		"macGenerator" : "rww 9/10/2006 16:28",
+		"macVerifier" : "rww 9/10/2006 16:29",
+		"verifyMAC:" : "rww 9/29/2006 14:20" } }

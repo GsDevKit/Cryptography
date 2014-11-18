@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"writeState" ],
+	"name" : "MessageFragmenter",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

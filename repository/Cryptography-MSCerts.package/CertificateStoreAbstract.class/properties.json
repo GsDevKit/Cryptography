@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CertificateStoreAbstract",
+	"pools" : [
+		 ],
+	"super" : "ExternalFunction",
+	"type" : "normal" }

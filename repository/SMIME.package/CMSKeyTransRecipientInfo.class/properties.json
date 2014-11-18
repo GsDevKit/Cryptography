@@ -1,0 +1,17 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"version",
+		"rid",
+		"keyEncryptionAlgorithm",
+		"encryptedKey" ],
+	"name" : "CMSKeyTransRecipientInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

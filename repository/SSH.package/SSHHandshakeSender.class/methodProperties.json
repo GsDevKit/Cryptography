@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"newOnMachine:" : "rww 8/20/2007 09:34" },
+	"instance" : {
+		"connection" : "rww 8/27/2007 11:02",
+		"initializeOnMachine:" : "rww 8/20/2007 09:34",
+		"machine" : "rww 8/20/2007 09:34",
+		"securityCoord" : "rww 8/27/2007 11:02",
+		"send" : "rww 8/26/2007 15:18",
+		"sendMsg:" : "rww 8/27/2007 16:16" } }

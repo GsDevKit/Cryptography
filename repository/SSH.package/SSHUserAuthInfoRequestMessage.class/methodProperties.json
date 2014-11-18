@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"messageName" : "rww 9/27/2007 14:32",
+		"type" : "rww 9/27/2007 14:31" },
+	"instance" : {
+		"asByteArray" : "rww 9/27/2007 14:50",
+		"echos" : "rww 9/27/2007 14:33",
+		"echos:" : "rww 9/27/2007 14:33",
+		"fromStream:" : "rww 9/27/2007 14:43",
+		"initialize" : "rww 9/27/2007 14:43",
+		"instruction" : "rww 9/27/2007 14:33",
+		"instruction:" : "rww 9/27/2007 14:33",
+		"language" : "rww 9/27/2007 14:33",
+		"language:" : "rww 9/27/2007 14:33",
+		"name:" : "rww 9/27/2007 14:33",
+		"numPrompts" : "rww 9/27/2007 14:33",
+		"numPrompts:" : "rww 9/27/2007 14:33",
+		"process:" : "rww 9/27/2007 14:38",
+		"prompts" : "rww 9/27/2007 14:33",
+		"prompts:" : "rww 9/27/2007 14:33" } }

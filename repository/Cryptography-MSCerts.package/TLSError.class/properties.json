@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TLSError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

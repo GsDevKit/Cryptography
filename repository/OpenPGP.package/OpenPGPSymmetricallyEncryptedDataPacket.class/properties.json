@@ -1,0 +1,14 @@
+{
+	"category" : "OpenPGP-Packets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OpenPGPSymmetricallyEncryptedDataPacket",
+	"pools" : [
+		 ],
+	"super" : "OpenPGPPacket",
+	"type" : "normal" }

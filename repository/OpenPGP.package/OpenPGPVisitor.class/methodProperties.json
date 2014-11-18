@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"new" : "hmm 4/7/2002 15:09" },
+	"instance" : {
+		"config:" : "hmm 4/7/2002 15:09",
+		"finish" : "hmm 4/7/2002 15:08",
+		"handleCompressedDataPacket:" : "hmm 4/7/2002 15:07",
+		"handleLiteralDataPacket:" : "hmm 4/7/2002 15:07",
+		"handleMarkerPacket:" : "hmm 4/7/2002 15:07",
+		"handleOnePassSignaturePacket:" : "hmm 4/7/2002 15:07",
+		"handleOpenPassSignaturePacket:" : "",
+		"handlePacket:" : "hmm 4/7/2002 15:07",
+		"handlePhotoIDPacket:" : "hmm 4/7/2002 15:07",
+		"handlePublicKeyEncryptedSessionKeyPacket:" : "hmm 4/7/2002 15:07",
+		"handlePublicKeyPacket:" : "hmm 4/7/2002 15:07",
+		"handlePublicSubkeyPacket:" : "hmm 4/7/2002 15:07",
+		"handleSecretKeyPacket:" : "hmm 4/7/2002 15:07",
+		"handleSecretSubkeyPacket:" : "hmm 4/7/2002 15:07",
+		"handleSignaturePacket:" : "hmm 4/7/2002 15:07",
+		"handleSymmetricKeyEncryptedSessionKeyPacket:" : "hmm 4/7/2002 15:07",
+		"handleSymmetricallyEncryptedDataPacket:" : "hmm 4/7/2002 15:07",
+		"handleTrustPacket:" : "hmm 4/7/2002 15:07",
+		"handleUserIDPacket:" : "hmm 4/7/2002 15:07",
+		"initialize" : "hmm 4/7/2002 15:08" } }

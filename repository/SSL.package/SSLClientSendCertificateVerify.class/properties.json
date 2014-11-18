@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Handshake Senders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLClientSendCertificateVerify",
+	"pools" : [
+		 ],
+	"super" : "SSLHandshakeSender",
+	"type" : "normal" }

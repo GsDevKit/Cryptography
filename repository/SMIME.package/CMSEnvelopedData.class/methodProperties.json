@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initializeASN1Types" : "rww 4/14/2007 11:57" },
+	"instance" : {
+		"encryptedContentInfo" : "rww 4/13/2007 09:01",
+		"encryptedContentInfo:" : "rww 4/13/2007 09:01",
+		"originatorInfo" : "rww 4/13/2007 09:01",
+		"originatorInfo:" : "rww 4/13/2007 09:01",
+		"recipientInfos" : "rww 4/13/2007 09:01",
+		"recipientInfos:" : "rww 4/13/2007 09:01",
+		"unprotectedAttrs" : "rww 4/13/2007 09:01",
+		"unprotectedAttrs:" : "rww 4/13/2007 09:01",
+		"version" : "rww 4/13/2007 09:01",
+		"version:" : "rww 4/13/2007 09:01" } }

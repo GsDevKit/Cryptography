@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 7/24/2006 13:03",
+		"accessProtect" : "RJT 7/17/2006 13:23",
+		"cacheSessionFor:" : "RJT 7/19/2006 20:05",
+		"findUnusedSessionFor:" : "RJT 7/20/2006 14:29",
+		"flushNilCacheValues" : "RJT 7/18/2006 12:28",
+		"removeFromCache:" : "RJT 7/17/2006 13:39",
+		"sessionCache" : "RJT 7/17/2006 13:26",
+		"shouldCacheSessions" : "RJT 7/20/2006 14:27",
+		"shouldCacheSessions:" : "RJT 7/20/2006 14:28" },
+	"instance" : {
+		"sessionID" : "RJT 7/17/2006 13:09",
+		"sessionID:" : "RJT 7/17/2006 13:09",
+		"tlsHandShake" : "RJT 7/17/2006 13:10",
+		"tlsHandShake:" : "RJT 7/17/2006 13:10" } }

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bulkCipherDictionary" : "rww 9/29/2006 14:32",
+		"computeSecret" : "rww 9/27/2006 12:12",
+		"finishedMsgForClient" : "rww 9/17/2006 15:37",
+		"finishedMsgForServer" : "rww 9/12/2006 14:04",
+		"generateKeyBlock" : "rww 9/25/2006 12:28",
+		"installKeyWithCipherReadKey:cipherWriteKey:macReadKey:macWriteKey:ivReadKey:ivWriteKey:" : "rww 9/25/2006 12:28",
+		"installKeysFromKeyBlock:" : "rww 9/19/2006 15:16",
+		"macDictionary" : "rww 9/13/2006 05:53",
+		"md5HashFinishedMsgsForClient" : "rww 9/18/2006 12:11",
+		"md5HashFinishedMsgsForServer" : "rww 9/12/2006 14:03",
+		"md5HashFinishedMsgsWithSenderValue:" : "rww 9/18/2006 12:15",
+		"md5Pad1" : "rww 9/18/2006 12:02",
+		"md5Pad2" : "rww 9/18/2006 12:03",
+		"setupCertificateAndKeyExchangeHandlers" : "rww 9/28/2006 14:06",
+		"shaHashFinishedMsgsForClient" : "rww 9/12/2006 14:02",
+		"shaHashFinishedMsgsForServer" : "rww 9/12/2006 14:03",
+		"shaHashFinishedMsgsWithSenderValue:" : "rww 9/21/2006 12:09",
+		"shaPad1" : "rww 9/18/2006 12:02",
+		"shaPad2" : "rww 9/18/2006 12:02",
+		"verifyFinishedMsgForClient:" : "rww 9/17/2006 15:37",
+		"verifyFinishedMsgForServer:" : "rww 9/12/2006 14:06" } }

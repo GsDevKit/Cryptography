@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"httpsAdapter",
+		"serverHello",
+		"certificate" ],
+	"name" : "HttpRequestHandshake",
+	"pools" : [
+		 ],
+	"super" : "HttpRequest",
+	"type" : "normal" }

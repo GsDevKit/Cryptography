@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clientHello",
+		"serverHello",
+		"certificate" ],
+	"name" : "TLSHandShake",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

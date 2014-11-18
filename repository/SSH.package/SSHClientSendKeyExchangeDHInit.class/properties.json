@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-Msg Senders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSHClientSendKeyExchangeDHInit",
+	"pools" : [
+		 ],
+	"super" : "SSHHandshakeSender",
+	"type" : "normal" }

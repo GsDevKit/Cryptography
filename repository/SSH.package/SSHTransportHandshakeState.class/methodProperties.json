@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"newOnMachine:" : "rww 8/20/2007 09:20" },
+	"instance" : {
+		"addMsgSenderClass:" : "rww 8/26/2007 11:54",
+		"addStateClass:" : "rww 8/26/2007 10:28",
+		"connection" : "rww 8/26/2007 10:28",
+		"initializeOnMachine:" : "rww 8/20/2007 09:19",
+		"isEncrypted" : "rww 9/4/2007 10:46",
+		"machine" : "rww 8/20/2007 09:19",
+		"securityCoord" : "rww 8/27/2007 12:10",
+		"securityParams" : "rww 8/28/2007 21:08",
+		"sendInitialMessages" : "rww 8/26/2007 10:27" } }

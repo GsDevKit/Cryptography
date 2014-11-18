@@ -1,0 +1,15 @@
+{
+	"category" : "SSL-Stack-Sockets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket",
+		"serverProcess" ],
+	"name" : "SocketEndpointBottom",
+	"pools" : [
+		 ],
+	"super" : "DuplexProtocolStackBottomCap",
+	"type" : "normal" }

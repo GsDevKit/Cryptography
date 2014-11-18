@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 9/2/2006 10:49",
+	"instvars" : [
+		"tbsCertificates",
+		"signatureAlgorithm",
+		"signatureValue" ],
+	"name" : "CertificateListASN1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

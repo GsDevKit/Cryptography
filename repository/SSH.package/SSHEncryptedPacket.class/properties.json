@@ -1,0 +1,15 @@
+{
+	"category" : "SSH-Packets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"encryptedPayload",
+		"mac" ],
+	"name" : "SSHEncryptedPacket",
+	"pools" : [
+		 ],
+	"super" : "SSHAbstractPacket",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cipherSpec" ],
+	"name" : "HttpsAdaptor",
+	"pools" : [
+		 ],
+	"super" : "HttpAdaptorAbstract",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicReceive:" : "rww 10/1/2007 14:53",
+		"basicSend:" : "rww 10/1/2007 14:51",
+		"close" : "rww 9/3/2007 11:18",
+		"initialize" : "rww 10/1/2007 12:43",
+		"isAuthenticated" : "rww 9/4/2007 20:41",
+		"makeClient" : "rww 9/8/2007 11:42",
+		"makeServer" : "rww 9/17/2007 16:53",
+		"password" : "rww 9/8/2007 11:49",
+		"password:" : "rww 9/8/2007 11:49",
+		"receive:" : "rww 10/1/2007 14:58",
+		"send:" : "rww 10/1/2007 14:58",
+		"sendDataMsg:" : "rww 10/1/2007 17:52",
+		"socket" : "rww 9/3/2007 11:12",
+		"socket:" : "rww 9/3/2007 11:12",
+		"stateMachine" : "rww 9/4/2007 10:49",
+		"stateMachine:" : "rww 9/4/2007 10:49",
+		"switchToClosed" : "rww 9/3/2007 11:19",
+		"transportCap" : "rww 9/3/2007 11:12",
+		"transportCap:" : "rww 9/3/2007 11:12",
+		"userName" : "rww 10/1/2007 12:43" } }

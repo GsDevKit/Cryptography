@@ -1,0 +1,17 @@
+{
+	"category" : "SSL-Records",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"version",
+		"length",
+		"fragment" ],
+	"name" : "SSLRecord",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

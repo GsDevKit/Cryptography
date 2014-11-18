@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicSend:" : "rww 9/6/2006 15:26",
+		"close" : "rww 9/25/2006 20:10",
+		"downProtocol" : "rww 9/6/2006 15:25",
+		"downProtocol:" : "rww 9/14/2006 12:34",
+		"process:" : "rww 9/6/2006 15:07",
+		"processStackError:" : "jrd 11/5/2008 17:16",
+		"receive:" : "rww 9/6/2006 16:45",
+		"send:" : "rww 9/6/2006 15:10" } }

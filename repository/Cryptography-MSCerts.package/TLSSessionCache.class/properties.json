@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AccessProtect",
+		"SessionCache",
+		"ShouldCacheSessions" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sessionID",
+		"tlsHandShake" ],
+	"name" : "TLSSessionCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

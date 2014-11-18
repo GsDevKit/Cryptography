@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 7/26/2006 23:41",
+		"myType" : "RJT 7/26/2006 23:42",
+		"parseFromStream:" : "RJT 7/26/2006 23:48" },
+	"instance" : {
+		"hashTypes" : "RJT 7/26/2006 23:39",
+		"hashTypes:" : "RJT 7/26/2006 23:39",
+		"initialize" : "RJT 7/26/2006 23:39",
+		"supportsMD5" : "RJT 7/26/2006 23:51",
+		"supportsSha1" : "RJT 7/26/2006 23:51",
+		"supportsSha256" : "RJT 7/26/2006 23:51",
+		"supportsSha512" : "RJT 7/26/2006 23:51" } }

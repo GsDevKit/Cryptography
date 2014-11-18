@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"infoRequest" : "rww 10/1/2007 13:01",
+		"infoRequest:" : "rww 10/1/2007 13:01",
+		"infoResponse" : "rww 10/1/2007 13:01",
+		"infoResponse:" : "rww 10/1/2007 13:01",
+		"processChannelData:" : "rww 10/1/2007 15:49",
+		"promptNumber" : "rww 10/1/2007 13:01",
+		"promptNumber:" : "rww 10/1/2007 13:01",
+		"responseData" : "rww 10/1/2007 15:46",
+		"responseData:" : "rww 10/1/2007 15:46",
+		"sendInitialMessages" : "rww 10/1/2007 15:46",
+		"sendPrompt:" : "rww 10/1/2007 15:15" } }

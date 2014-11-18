@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"type" : "rww 9/7/2006 11:49" },
+	"instance" : {
+		"appendFromStream:" : "rww 9/14/2006 16:01",
+		"asByteArray" : "rww 9/21/2006 12:46",
+		"asPlaintextRecord" : "rww 9/29/2006 14:20",
+		"body" : "rww 9/7/2006 11:18",
+		"body:" : "rww 9/7/2006 11:18",
+		"fromStream:" : "rww 9/7/2006 11:24",
+		"is20ClientHello" : "rww 9/17/2006 15:39",
+		"isFullHandshake" : "rww 9/14/2006 16:08",
+		"length" : "rww 9/7/2006 11:18",
+		"length:" : "rww 9/7/2006 11:18",
+		"msgType" : "rww 9/7/2006 11:18",
+		"msgType:" : "rww 9/7/2006 11:18",
+		"processOnConnection:" : "rww 9/10/2006 06:24" } }

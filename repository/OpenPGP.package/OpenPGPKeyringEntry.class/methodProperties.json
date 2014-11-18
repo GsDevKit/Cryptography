@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"new" : "hmm 12/28/2001 19:55",
+		"preferredKeys" : "" },
+	"instance" : {
+		"add:" : "",
+		"detectPacket:return:" : "hmm 12/28/2001 19:35",
+		"detectPacket:return:ifNone:" : "hmm 12/28/2001 19:34",
+		"initialize" : "hmm 12/28/2001 18:07",
+		"keyID" : "hmm 4/6/2002 10:42",
+		"keyID8Hex" : "",
+		"keyIDHex" : "",
+		"packets" : "hmm 2/1/2002 23:27",
+		"photoID" : "hmm 4/3/2002 23:33",
+		"preferred" : "",
+		"preferred:" : "",
+		"printOn:" : "",
+		"trust" : "",
+		"type" : "",
+		"userID" : "" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Connections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLSendError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

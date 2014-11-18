@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"newOnMachine:" : "jrd 11/15/2008 13:13" },
+	"instance" : {
+		"connection" : "rww 9/13/2006 07:46",
+		"initializeOnMachine:" : "rww 9/13/2006 07:46",
+		"machine" : "rww 9/13/2006 07:46",
+		"release" : "rww 9/13/2006 08:04",
+		"securityCoord" : "rww 9/13/2006 07:46",
+		"securityParams" : "rww 9/13/2006 07:46",
+		"send" : "rww 9/27/2006 13:32",
+		"sendAlertCode:" : "rww 9/27/2006 19:53",
+		"sendClientHelloHandshake:" : "rww 10/6/2006 18:33",
+		"sendHandshake:" : "rww 10/6/2006 18:34" } }

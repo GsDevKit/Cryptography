@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"certificate:" : "rww 4/20/2007 09:46" },
+	"instance" : {
+		"issuer" : "rww 4/14/2007 10:57",
+		"issuer:" : "rww 4/14/2007 10:57",
+		"matchesCertificate:" : "rww 4/28/2007 11:54",
+		"serialNumber" : "rww 4/14/2007 10:57",
+		"serialNumber:" : "rww 4/14/2007 10:57" } }

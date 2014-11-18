@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"descriptionFromCode:" : "rww 9/17/2006 09:28",
+		"newOnCode:" : "rww 9/27/2006 19:46",
+		"type" : "rww 9/7/2006 11:48" },
+	"instance" : {
+		"asByteArray" : "rww 9/28/2006 14:41",
+		"asPlaintextRecord" : "rww 9/29/2006 14:20",
+		"description" : "rww 9/17/2006 09:19",
+		"descriptionCode" : "rww 9/17/2006 09:19",
+		"descriptionCode:" : "rww 9/17/2006 09:19",
+		"fromStream:" : "rww 9/17/2006 09:29",
+		"isFatal" : "rww 9/17/2006 09:33",
+		"isWarning" : "rww 9/17/2006 09:34",
+		"level" : "rww 9/7/2006 11:16",
+		"level:" : "rww 9/7/2006 11:16",
+		"printOn:" : "rww 9/17/2006 09:32",
+		"processOnConnection:" : "rww 9/7/2006 11:59" } }

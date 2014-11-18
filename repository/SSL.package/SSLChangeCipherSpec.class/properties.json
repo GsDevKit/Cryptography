@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type" ],
+	"name" : "SSLChangeCipherSpec",
+	"pools" : [
+		 ],
+	"super" : "SSLMessage",
+	"type" : "normal" }

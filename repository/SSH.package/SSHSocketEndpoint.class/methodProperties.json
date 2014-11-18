@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"newConnection:port:" : "rww 10/1/2007 12:35" },
+	"instance" : {
+		"connPipe" : "rww 10/1/2007 12:21",
+		"connPipe:" : "rww 10/1/2007 12:21",
+		"downcall:" : "rww 10/1/2007 15:34",
+		"downcallAll:" : "rww 10/1/2007 15:34",
+		"receive:" : "rww 10/1/2007 17:59",
+		"run" : "rww 10/1/2007 12:33",
+		"send:" : "rww 10/1/2007 16:21",
+		"switchToClosed" : "rww 10/1/2007 18:08",
+		"userName" : "rww 10/1/2007 12:34",
+		"userName:" : "rww 10/1/2007 12:34" } }

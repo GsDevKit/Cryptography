@@ -1,0 +1,18 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 7/26/2006 21:49",
+	"instvars" : [
+		"identifierType",
+		"preAgreed",
+		"keySha1Hash",
+		"x509Name",
+		"certSha1Hash" ],
+	"name" : "TLSTrustedAthority",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

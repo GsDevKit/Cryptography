@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"basicNewOnPipe:" : "rww 8/25/2007 19:12",
+		"newConnection:port:" : "rww 8/25/2007 19:13",
+		"newOnSocket:" : "rww 8/26/2007 11:50",
+		"newOnSocket:publicKey:privateKey:" : "rww 9/1/2007 23:41",
+		"testForSigHash" : "rww 9/1/2007 16:53" },
+	"instance" : {
+		"answerClient" : "rww 8/26/2007 11:50",
+		"callServer" : "rww 8/25/2007 19:14",
+		"close" : "rww 8/25/2007 19:30",
+		"connPipe" : "rww 8/25/2007 19:12",
+		"connPipe:" : "rww 8/25/2007 19:12",
+		"pendingWriteData" : "rww 8/25/2007 19:12",
+		"pendingWriteData:" : "rww 8/25/2007 19:12",
+		"publicKey:privateKey:" : "rww 9/1/2007 23:26",
+		"start" : "rww 8/25/2007 19:22",
+		"state" : "rww 8/25/2007 19:12",
+		"state:" : "rww 8/25/2007 19:12",
+		"switchToClosed" : "rww 8/26/2007 10:24" } }

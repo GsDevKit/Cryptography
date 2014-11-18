@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addGeneralMenuOptionsTo:" : "rww 6/4/2007 09:02",
+		"appendCertToSMIMEOwnerCertChain" : "rww 6/4/2007 10:41",
+		"currentMessageSecurityHeaderText" : "rww 6/4/2007 09:13",
+		"exploreSMIMECertStore" : "rww 6/4/2007 09:03",
+		"loadSMIMEOwnerCert" : "rww 6/4/2007 09:06",
+		"messageText" : "rww 6/4/2007 15:09",
+		"openSender:" : "rww 6/3/2007 16:25",
+		"smimeAgent" : "rww 6/3/2007 16:21" } }

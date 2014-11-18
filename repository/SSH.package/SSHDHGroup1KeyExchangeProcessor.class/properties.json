@@ -1,0 +1,16 @@
+{
+	"category" : "SSH-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"diffieHellman",
+		"e",
+		"f" ],
+	"name" : "SSHDHGroup1KeyExchangeProcessor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

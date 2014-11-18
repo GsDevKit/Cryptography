@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"fromBytes:" : "rww 9/7/2006 11:50",
+		"on:" : "rww 9/11/2006 11:10",
+		"type" : "rww 9/7/2006 11:49" },
+	"instance" : {
+		"asPlaintextRecord" : "rww 9/29/2006 14:20",
+		"data" : "rww 9/11/2006 11:09",
+		"data:" : "rww 9/11/2006 11:09",
+		"fromStream:" : "rww 9/14/2006 16:28",
+		"processOnConnection:" : "rww 9/7/2006 11:59" } }

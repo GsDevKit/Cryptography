@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"keyBlockFromMasterSecret:clientRandom:serverRandom:size:" : "rww 9/24/2006 09:01",
+		"masterSecretFromPreMasterSecret:clientRandom:serverRandom:size:" : "rww 9/24/2006 09:02" } }

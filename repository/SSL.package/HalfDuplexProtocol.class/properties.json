@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"link" ],
+	"name" : "HalfDuplexProtocol",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

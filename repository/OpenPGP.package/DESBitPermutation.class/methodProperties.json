@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fromBitIndexes:" : "hmm 12/31/2001 18:19",
+		"fromDESBitIndexes:sourceWidth:" : "hmm 12/31/2001 18:28",
+		"initialize" : "hmm 12/31/2001 15:52" },
+	"instance" : {
+		"initialize" : "hmm 12/31/2001 18:19",
+		"map:to:" : "hmm 12/31/2001 18:23",
+		"permute:" : "hmm 12/31/2001 15:51" } }

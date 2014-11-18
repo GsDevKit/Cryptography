@@ -1,0 +1,27 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 8/25/2006 13:46",
+	"instvars" : [
+		"parentCertificate",
+		"signatureAlgorithm",
+		"signatureValue",
+		"version",
+		"serialNumber",
+		"signature",
+		"issuer",
+		"validity",
+		"subject",
+		"subjectPublicKeyInfo",
+		"issuerUniqueID",
+		"subjectUniqueID",
+		"extensions",
+		"asn1EncodedCertificate" ],
+	"name" : "X509v3Certificate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

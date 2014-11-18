@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"type" : "rww 9/4/2006 12:35" },
+	"instance" : {
+		"asByteArray" : "rww 9/10/2006 09:39",
+		"fromStream:withSecurityParams:" : "rww 9/10/2006 09:39",
+		"initialize" : "rww 9/10/2006 09:38",
+		"isCertificateVerify" : "rww 9/10/2006 09:00",
+		"signature" : "rww 9/10/2006 09:38",
+		"signature:" : "rww 9/10/2006 09:38" } }

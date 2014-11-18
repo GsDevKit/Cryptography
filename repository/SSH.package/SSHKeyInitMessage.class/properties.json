@@ -1,0 +1,25 @@
+{
+	"category" : "SSH-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cookie",
+		"keyExchangeAlgorithms",
+		"serverHostKeyAlgorithms",
+		"encryptionAlgorithmsClientToServer",
+		"encryptionAlgorithmsServerToClient",
+		"macAlgorithmsClientToServer",
+		"macAlgorithmsServerToClient",
+		"compressionAlgorithmsClientToServer",
+		"compressionAlgorithmsServerToClient",
+		"languagesClientToServer",
+		"languagesServerToClient",
+		"firstKeyExchangePacketFollows" ],
+	"name" : "SSHKeyInitMessage",
+	"pools" : [
+		 ],
+	"super" : "SSHBinaryMessage",
+	"type" : "normal" }

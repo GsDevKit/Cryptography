@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fromBytes:" : "rww 9/7/2006 11:31",
+		"fromStream:" : "rww 9/7/2006 11:19",
+		"messageAtType:" : "rww 9/8/2006 07:29",
+		"type" : "rww 9/7/2006 11:47" },
+	"instance" : {
+		"fromStream:" : "rww 9/7/2006 11:20",
+		"processOnConnection:" : "rww 9/7/2006 11:56" } }

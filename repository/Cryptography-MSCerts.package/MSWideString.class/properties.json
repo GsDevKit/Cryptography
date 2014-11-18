@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 8/15/2006 00:29",
+	"instvars" : [
+		 ],
+	"name" : "MSWideString",
+	"pools" : [
+		 ],
+	"super" : "WideString",
+	"type" : "words" }

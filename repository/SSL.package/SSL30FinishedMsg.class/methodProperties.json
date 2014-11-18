@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isSSL30Msg" : "rww 9/12/2006 13:34",
+		"isTLS10Msg" : "rww 9/12/2006 13:37",
+		"isTLS11Msg" : "rww 9/12/2006 13:37",
+		"type" : "rww 9/12/2006 14:12" },
+	"instance" : {
+		"asByteArray" : "rww 9/12/2006 13:36",
+		"fromStream:" : "rww 9/12/2006 13:35",
+		"isFinished" : "rww 9/12/2006 13:34",
+		"md5Hash" : "rww 9/12/2006 13:35",
+		"md5Hash:" : "rww 9/12/2006 13:35",
+		"shaHash" : "rww 9/12/2006 13:33",
+		"shaHash:" : "rww 9/12/2006 13:33" } }

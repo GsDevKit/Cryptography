@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"example" : "",
+		"example2" : "rww 6/29/2010 05:01",
+		"example3" : "rww 6/29/2010 05:02",
+		"newConnection:port:" : "rww 6/29/2010 05:02",
+		"newConnectionAddress:port:" : "rww 8/26/2010 05:53" },
+	"instance" : {
+		"close" : "rww 10/30/2002 09:18",
+		"downcall:" : "",
+		"downcallAll:" : "",
+		"getData" : "rww 6/29/2010 05:05",
+		"isConnected" : "",
+		"name" : "",
+		"note:with:" : "rww 6/29/2010 05:05",
+		"rcvd:" : "rww 6/29/2010 05:05",
+		"run" : "",
+		"savePreferences:" : "",
+		"sent:" : "rww 6/29/2010 05:06",
+		"socket" : "",
+		"socket:" : "rww 6/29/2010 05:06" } }

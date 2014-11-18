@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nameType",
+		"serverName" ],
+	"name" : "TLSServerName",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

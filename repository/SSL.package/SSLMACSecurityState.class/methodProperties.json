@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"generateMAC:" : "rww 9/9/2006 08:59",
+		"macGenerator" : "rww 9/29/2006 14:25",
+		"macVerifier" : "rww 9/29/2006 14:25",
+		"readKey" : "rww 9/10/2006 15:10",
+		"readKey:" : "rww 9/10/2006 15:10",
+		"verifyMAC:" : "rww 9/9/2006 09:00",
+		"writeKey" : "rww 9/10/2006 15:10",
+		"writeKey:" : "rww 9/10/2006 15:10" } }

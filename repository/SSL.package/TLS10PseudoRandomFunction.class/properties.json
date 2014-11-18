@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TLS10PseudoRandomFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

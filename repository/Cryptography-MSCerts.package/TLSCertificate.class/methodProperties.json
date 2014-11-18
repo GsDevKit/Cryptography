@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 9/2/2006 15:52",
+		"asn1Definition" : "RJT 9/7/2006 19:31",
+		"createFrom:" : "RJT 8/27/2006 14:07",
+		"fromAsnDer:" : "RJT 9/7/2006 18:17",
+		"handShake:certificate:" : "RJT 8/27/2006 14:07" },
+	"instance" : {
+		"certificate" : "RJT 8/26/2006 21:49",
+		"certificate:" : "RJT 8/26/2006 21:49",
+		"createRawData" : "RJT 9/1/2006 20:40",
+		"handShake" : "RJT 8/26/2006 21:49",
+		"handShake:" : "RJT 8/26/2006 21:49",
+		"rawData" : "RJT 8/26/2006 21:49",
+		"rawData:" : "RJT 8/26/2006 21:49",
+		"serverVersionByteArray" : "RJT 8/27/2006 14:23",
+		"wrapAsCertificate:" : "RJT 8/26/2006 21:55",
+		"wrapAsTLSHandShakeMessage:" : "RJT 8/26/2006 21:56",
+		"wrapItem:" : "RJT 9/1/2006 20:38",
+		"wrapSequence:" : "RJT 9/1/2006 20:38" } }

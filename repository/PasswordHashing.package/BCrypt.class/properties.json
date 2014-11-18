@@ -1,0 +1,25 @@
+{
+	"category" : "PasswordHashing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PaulDeBruicker 4/21/2011 11:58",
+	"instvars" : [
+		"cipherText",
+		"minor",
+		"rounds",
+		"csalt",
+		"saltLength",
+		"keyLength",
+		"state",
+		"cdata",
+		"encrypted",
+		"logRounds",
+		"key",
+		"count" ],
+	"name" : "BCrypt",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-Transport Handshake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSHServerEncryptedState",
+	"pools" : [
+		 ],
+	"super" : "SSHTransportHandshakeState",
+	"type" : "normal" }

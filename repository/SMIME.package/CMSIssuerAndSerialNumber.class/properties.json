@@ -1,0 +1,15 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"issuer",
+		"serialNumber" ],
+	"name" : "CMSIssuerAndSerialNumber",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

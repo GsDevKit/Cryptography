@@ -1,0 +1,17 @@
+{
+	"category" : "SSL-Handshake States",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection",
+		"state",
+		"pendingStates",
+		"messageSenders" ],
+	"name" : "SSLHandshakeStateMachine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

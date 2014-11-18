@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"initializeASN1Types" : "rww 4/29/2007 14:27" },
+	"instance" : {
+		"certificates" : "rww 4/12/2007 13:43",
+		"certificates:" : "rww 4/12/2007 13:43",
+		"crls" : "rww 4/12/2007 13:43",
+		"crls:" : "rww 4/12/2007 13:43",
+		"digestAlgorithms" : "rww 4/12/2007 13:43",
+		"digestAlgorithms:" : "rww 4/12/2007 13:43",
+		"encapContentInfo" : "rww 4/12/2007 13:43",
+		"encapContentInfo:" : "rww 4/12/2007 13:43",
+		"signerInfos" : "rww 4/12/2007 13:43",
+		"signerInfos:" : "rww 4/12/2007 13:43",
+		"version" : "rww 4/12/2007 13:43",
+		"version:" : "rww 4/12/2007 13:43" } }

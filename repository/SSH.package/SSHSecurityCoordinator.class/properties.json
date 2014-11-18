@@ -1,0 +1,19 @@
+{
+	"category" : "SSH-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection",
+		"isClient",
+		"keyExchangeProcessor",
+		"pendingReadState",
+		"pendingWriteState",
+		"securityParams" ],
+	"name" : "SSHSecurityCoordinator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

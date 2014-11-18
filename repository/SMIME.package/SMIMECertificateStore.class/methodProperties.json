@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCertsFromPemFile:" : "rww 6/4/2007 10:40",
+		"atEmail:" : "rww 4/18/2007 11:36",
+		"atEmail:putCerts:" : "rww 4/18/2007 11:37",
+		"certStoreFilename" : "rww 4/19/2007 10:36",
+		"initialize" : "rww 4/19/2007 10:39",
+		"loadPkcs12PrivateKeyFile:" : "rww 4/19/2007 08:37",
+		"loadRootCertificates" : "rww 4/19/2007 10:55",
+		"ownerCert" : "rww 4/18/2007 11:45",
+		"ownerCerts" : "rww 4/18/2007 11:42",
+		"ownerCerts:" : "rww 4/18/2007 22:04",
+		"ownerPrivateKey" : "rww 4/18/2007 22:03",
+		"ownerPrivateKey:" : "rww 6/4/2007 09:14",
+		"ownerPublicKey" : "rww 4/18/2007 11:45",
+		"password" : "rww 4/18/2007 21:53",
+		"password:" : "rww 4/18/2007 11:13",
+		"readStoreData" : "rww 4/19/2007 10:07",
+		"rootCertificates" : "rww 4/19/2007 10:38",
+		"rootCertificates:" : "rww 4/19/2007 10:38",
+		"storeData" : "rww 4/18/2007 11:13",
+		"storeData:" : "rww 4/18/2007 11:13",
+		"validateOwnerCertChain" : "rww 6/4/2007 10:46",
+		"writeStoreData" : "rww 4/19/2007 10:07" } }

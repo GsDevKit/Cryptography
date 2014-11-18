@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canDecrypt" : "rww 6/4/2007 09:10",
+		"canEncryptFor:" : "rww 6/4/2007 19:01",
+		"canSign" : "rww 6/4/2007 10:43",
+		"certStore" : "rww 4/18/2007 11:40",
+		"certStore:" : "rww 4/18/2007 11:40",
+		"encrypt:" : "rww 4/20/2007 09:53",
+		"envelopedContentInfoFrom:" : "rww 4/20/2007 09:53",
+		"initialize" : "rww 4/18/2007 11:40",
+		"isEncryptedMsg:" : "rww 5/14/2007 11:15",
+		"isMultipartSignedMsg:" : "rww 5/14/2007 11:14",
+		"isOpaqueSignedMsg:" : "rww 5/14/2007 11:15",
+		"isSignedMsg:" : "rww 5/14/2007 11:16",
+		"opaqueSign:" : "rww 4/27/2007 12:59",
+		"opaqueSignedContentInfoFrom:" : "rww 4/27/2007 17:57",
+		"processEncrypted:" : "rww 6/4/2007 09:12",
+		"processMsg:" : "rww 4/27/2007 13:47",
+		"processOpaqueSigned:" : "rww 4/28/2007 11:55",
+		"processSigned:" : "rww 6/4/2007 15:04",
+		"sign:" : "rww 6/4/2007 19:02",
+		"signedContentInfoFrom:" : "rww 4/28/2007 14:31" } }

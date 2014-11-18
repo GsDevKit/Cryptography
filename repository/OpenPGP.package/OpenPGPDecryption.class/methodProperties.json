@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cipher" : "hmm 4/7/2002 15:25",
+		"handleCompressedDataPacket:" : "hmm 4/7/2002 15:30",
+		"handleLiteralDataPacket:" : "hmm 4/7/2002 15:31",
+		"handleSymmetricKeyEncryptedSessionKeyPacket:" : "hmm 4/7/2002 15:18",
+		"handleSymmetricallyEncryptedDataPacket:" : "hmm 4/7/2002 15:23",
+		"verifyWithCipher:" : "" } }

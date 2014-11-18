@@ -1,0 +1,16 @@
+{
+	"category" : "PasswordHashing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FromCharTable",
+		"ToCharTable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"data",
+		"multiLine" ],
+	"name" : "BCryptBase64Converter",
+	"pools" : [
+		 ],
+	"super" : "MimeConverter",
+	"type" : "normal" }

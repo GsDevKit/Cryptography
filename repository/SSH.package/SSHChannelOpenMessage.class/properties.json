@@ -1,0 +1,18 @@
+{
+	"category" : "SSH-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"channelType",
+		"senderChannel",
+		"initialWindowSize",
+		"maximumPacketSize",
+		"channelTypeSpecificFields" ],
+	"name" : "SSHChannelOpenMessage",
+	"pools" : [
+		 ],
+	"super" : "SSHBinaryMessage",
+	"type" : "normal" }

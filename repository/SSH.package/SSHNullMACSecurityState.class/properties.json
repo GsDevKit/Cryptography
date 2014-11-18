@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-State",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSHNullMACSecurityState",
+	"pools" : [
+		 ],
+	"super" : "SSHMACSecurityState",
+	"type" : "normal" }

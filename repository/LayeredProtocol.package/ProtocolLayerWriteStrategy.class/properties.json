@@ -1,0 +1,14 @@
+{
+	"category" : "LayeredProtocol-Extras",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProtocolLayerWriteStrategy",
+	"pools" : [
+		 ],
+	"super" : "ProtocolLayerStrategy",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Messages",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSLMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

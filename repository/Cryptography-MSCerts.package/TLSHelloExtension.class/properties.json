@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ExtensionSymbolDictionary" ],
+	"commentStamp" : "RJT 7/24/2006 12:57",
+	"instvars" : [
+		"extensionType",
+		"extensionData",
+		"tlsHello",
+		"rawData" ],
+	"name" : "TLSHelloExtension",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

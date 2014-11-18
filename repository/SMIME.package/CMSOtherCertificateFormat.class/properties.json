@@ -1,0 +1,15 @@
+{
+	"category" : "SMIME-CMS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"otherCertFormat",
+		"otherCert" ],
+	"name" : "CMSOtherCertificateFormat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

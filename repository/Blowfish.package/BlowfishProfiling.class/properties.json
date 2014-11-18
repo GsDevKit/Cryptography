@@ -1,0 +1,16 @@
+{
+	"category" : "Blowfish",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"keys",
+		"clear",
+		"encrypted" ],
+	"name" : "BlowfishProfiling",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

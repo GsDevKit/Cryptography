@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 8/15/2006 11:08",
+		"fields" : "RJT 8/14/2006 16:07" },
+	"instance" : {
+		"cProvParam" : "RJT 8/14/2006 16:07",
+		"cProvParam:" : "RJT 8/14/2006 16:07",
+		"containerName" : "RJT 8/15/2006 11:51",
+		"dwFlags" : "RJT 8/14/2006 16:07",
+		"dwFlags:" : "RJT 8/14/2006 16:07",
+		"dwKeySpec" : "RJT 8/14/2006 16:07",
+		"dwKeySpec:" : "RJT 8/14/2006 16:07",
+		"dwProvType" : "RJT 8/14/2006 16:07",
+		"dwProvType:" : "RJT 8/14/2006 16:07",
+		"provName" : "RJT 8/15/2006 11:50",
+		"pwszContainerName" : "RJT 8/14/2006 16:07",
+		"pwszContainerName:" : "RJT 8/14/2006 16:07",
+		"pwszProvName" : "RJT 8/14/2006 16:07",
+		"pwszProvName:" : "RJT 8/14/2006 16:07",
+		"rgProvParam" : "RJT 8/14/2006 16:07",
+		"rgProvParam:" : "RJT 8/14/2006 16:07" } }

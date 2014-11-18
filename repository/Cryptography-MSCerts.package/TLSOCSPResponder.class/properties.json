@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"responderID" ],
+	"name" : "TLSOCSPResponder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

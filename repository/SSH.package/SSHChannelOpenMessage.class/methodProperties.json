@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"messageName" : "rww 9/8/2007 22:59",
+		"type" : "rww 9/8/2007 15:22" },
+	"instance" : {
+		"asByteArray" : "rww 9/17/2007 10:52",
+		"channelType" : "rww 9/17/2007 10:46",
+		"channelType:" : "rww 9/17/2007 10:46",
+		"channelTypeSpecificFields" : "rww 9/17/2007 10:47",
+		"channelTypeSpecificFields:" : "rww 9/17/2007 10:47",
+		"fromStream:" : "rww 9/17/2007 10:50",
+		"initialWindowSize" : "rww 9/17/2007 10:46",
+		"initialWindowSize:" : "rww 9/17/2007 10:46",
+		"initialize" : "rww 9/17/2007 10:47",
+		"maximumPacketSize" : "rww 9/17/2007 10:46",
+		"maximumPacketSize:" : "rww 9/17/2007 10:46",
+		"process:" : "rww 9/17/2007 10:48",
+		"senderChannel" : "rww 9/17/2007 10:46",
+		"senderChannel:" : "rww 9/17/2007 10:46" } }

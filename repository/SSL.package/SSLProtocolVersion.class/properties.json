@@ -1,0 +1,15 @@
+{
+	"category" : "SSL-Records",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"major",
+		"minor" ],
+	"name" : "SSLProtocolVersion",
+	"pools" : [
+		 ],
+	"super" : "Magnitude",
+	"type" : "normal" }

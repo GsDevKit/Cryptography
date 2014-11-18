@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Handshake Senders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"machine" ],
+	"name" : "SSLHandshakeSender",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

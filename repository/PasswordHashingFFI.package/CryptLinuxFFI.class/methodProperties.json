@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"checkPassword:against:" : "PaulDeBruicker 1/14/2013 12:12",
+		"des:" : "PaulDeBruicker 3/5/2013 10:14",
+		"des:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"ffiCrypt:with:" : "PaulDeBruicker 8/22/2011 17:08",
+		"md5:" : "PaulDeBruicker 3/5/2013 10:13",
+		"md5:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"prepareSalt:" : "PaulDeBruicker 5/2/2011 08:50",
+		"randomSalt" : "PaulDeBruicker 3/5/2013 10:13",
+		"randomSalt:" : "PaulDeBruicker 3/5/2013 10:13",
+		"saltDataLength" : "PaulDeBruicker 3/5/2013 10:05",
+		"sha256:" : "PaulDeBruicker 3/5/2013 10:05",
+		"sha256:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"sha512:" : "PaulDeBruicker 3/5/2013 10:06",
+		"sha512:with:" : "PaulDeBruicker 5/2/2011 08:24" },
+	"instance" : {
+		 } }

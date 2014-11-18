@@ -1,0 +1,14 @@
+{
+	"category" : "SSL-Stack-Protocols",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"macState" ],
+	"name" : "SSLMACGenerator",
+	"pools" : [
+		 ],
+	"super" : "HalfDuplexProtocol",
+	"type" : "normal" }

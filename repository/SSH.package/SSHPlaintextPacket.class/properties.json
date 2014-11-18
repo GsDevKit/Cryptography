@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-Packets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSHPlaintextPacket",
+	"pools" : [
+		 ],
+	"super" : "SSHAbstractPacket",
+	"type" : "normal" }

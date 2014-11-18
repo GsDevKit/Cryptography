@@ -1,0 +1,16 @@
+{
+	"category" : "LayeredProtocol-Abstract",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"session",
+		"up",
+		"down" ],
+	"name" : "ProtocolLayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

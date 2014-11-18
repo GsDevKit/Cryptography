@@ -1,0 +1,17 @@
+{
+	"category" : "SSH-Transport Handshake",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection",
+		"state",
+		"pendingStates",
+		"messageSenders" ],
+	"name" : "SSHTransportHandshakeStateMachine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

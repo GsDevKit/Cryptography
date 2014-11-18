@@ -1,0 +1,14 @@
+{
+	"category" : "SSH-Connections",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SSH",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

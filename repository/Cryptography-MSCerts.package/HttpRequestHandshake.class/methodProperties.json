@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"LICENSE" : "RJT 7/24/2006 13:02",
+		"readFromHttpsAdapter:" : "RJT 8/27/2006 13:58" },
+	"instance" : {
+		"certificate" : "RJT 8/26/2006 22:13",
+		"certificate:" : "RJT 8/26/2006 22:13",
+		"httpsAdapter" : "RJT 8/27/2006 13:58",
+		"httpsAdapter:" : "RJT 8/27/2006 13:58",
+		"initializeFromStream:" : "RJT 8/27/2006 14:02",
+		"isHandshakeRequest" : "RJT 7/20/2006 23:27",
+		"response" : "RJT 8/27/2006 14:08",
+		"serverHello" : "RJT 7/20/2006 23:03",
+		"serverHello:" : "RJT 7/20/2006 23:03",
+		"x509v3Certificate" : "RJT 8/27/2006 14:06" } }

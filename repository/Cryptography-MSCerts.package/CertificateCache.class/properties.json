@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-MSCerts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CertificateCacheVariable" ],
+	"commentStamp" : "RJT 8/27/2006 13:42",
+	"instvars" : [
+		 ],
+	"name" : "CertificateCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

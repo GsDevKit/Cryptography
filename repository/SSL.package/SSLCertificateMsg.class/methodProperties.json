@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"type" : "rww 9/4/2006 12:34" },
+	"instance" : {
+		"asByteArray" : "rww 3/28/2007 12:06",
+		"certificateList" : "rww 9/10/2006 09:28",
+		"certificateList:" : "rww 9/10/2006 09:28",
+		"fromStream:" : "rww 3/26/2007 09:25",
+		"initialize" : "rww 9/10/2006 09:29",
+		"isCertificate" : "rww 9/10/2006 09:00" } }

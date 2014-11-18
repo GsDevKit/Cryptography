@@ -1,0 +1,15 @@
+{
+	"category" : "SSL-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"publicKey",
+		"privateKey" ],
+	"name" : "SSLDHKeyExchangeRSASignatureProcessor",
+	"pools" : [
+		 ],
+	"super" : "SSLDHKeyExchangeAnonSignatureProcessor",
+	"type" : "normal" }
