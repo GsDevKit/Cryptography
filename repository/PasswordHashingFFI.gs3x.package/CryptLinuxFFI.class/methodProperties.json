@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"checkPassword:against:" : "PaulDeBruicker 06/05/2012 02:11:06",
+		"des:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"ffiCrypt:with:" : "PaulDeBruicker 08/22/2011 14:04",
+		"md5:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"prepareSalt:" : "PaulDeBruicker 5/2/2011 08:50",
+		"randomSalt:" : "PaulDeBruicker 06/05/2012 02:11:06",
+		"sha256:with:" : "PaulDeBruicker 5/2/2011 08:24",
+		"sha512:with:" : "PaulDeBruicker 5/2/2011 08:24" },
+	"instance" : {
+		 } }

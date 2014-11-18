@@ -1,0 +1,14 @@
+{
+	"category" : "PasswordHashingFFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BCryptLinuxFFI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

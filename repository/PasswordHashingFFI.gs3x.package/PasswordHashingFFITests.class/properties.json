@@ -1,0 +1,14 @@
+{
+	"category" : "PasswordHashingFFI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PasswordHashingFFITests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
