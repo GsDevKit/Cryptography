@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asn1Tag" : "rww 3/25/2007 10:45",
+		"destroy" : "cds 7/5/2010 16:00",
+		"formatASN1" : "RJT 9/1/2006 15:38",
+		"formatASN1TabLevel:" : "RJT 9/1/2006 15:38",
+		"tokensBasedOn:" : "RJT 12/18/2006 10:08" } }

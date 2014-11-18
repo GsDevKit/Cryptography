@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"copyResult:toBufferOfSize:" : "rww 3/30/2007 09:07",
+		"derivedKeyWithId:fromDoubleBytePassword:salt:iterations:size:" : "rww 3/30/2007 09:18",
+		"derivedKeyWithId:fromPassword:salt:iterations:size:" : "rww 3/30/2007 08:56",
+		"passwordBufferFromPassword:length:" : "rww 3/30/2007 08:57",
+		"saltBufferFromSalt:length:" : "rww 3/30/2007 08:58" } }

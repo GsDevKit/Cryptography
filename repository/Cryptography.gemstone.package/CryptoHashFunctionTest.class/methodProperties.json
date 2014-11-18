@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testHMAC" : "rww 10/5/2006 06:45",
+		"testHMACSHA1" : "rww 10/5/2006 06:45",
+		"testLargeSHA1" : "rww 10/5/2006 06:45",
+		"testMD2" : "rww 1/23/2007 19:10",
+		"testMD4" : "rww 10/5/2006 06:45",
+		"testMD5" : "ul 3/3/2008 23:46",
+		"testMD5Implementations" : "ul 3/7/2008 19:13",
+		"testSHA1" : "rww 10/5/2006 06:46",
+		"testSHA256" : "ul 3/7/2008 00:52",
+		"testSHA256Implementations" : "ul 3/7/2008 19:12" } }

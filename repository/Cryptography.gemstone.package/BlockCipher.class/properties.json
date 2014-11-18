@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hmm 3/26/2002 18:17",
+	"instvars" : [
+		 ],
+	"name" : "BlockCipher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

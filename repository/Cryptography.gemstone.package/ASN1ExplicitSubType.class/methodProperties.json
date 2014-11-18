@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decodeWithDERStream:" : "rww 3/26/2007 05:32",
+		"decodeWithDERStream:owner:ownerType:" : "rww 3/29/2007 15:47",
+		"encode:withDERStream:" : "rww 3/25/2007 18:19",
+		"encode:withDERStream:owner:ownerType:" : "rww 4/15/2007 17:42" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-ASN1-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ASN1UniversalStringType",
+	"pools" : [
+		 ],
+	"super" : "ASN1WrappedStringType",
+	"type" : "normal" }

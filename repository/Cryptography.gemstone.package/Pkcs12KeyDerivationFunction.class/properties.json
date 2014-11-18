@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Pkcs12KeyDerivationFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

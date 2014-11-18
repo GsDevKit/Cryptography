@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"encode:" : "LC 10/26/2001 19:12",
+		"input:" : "LC 6/24/2001 15:49",
+		"new" : "LC 6/24/2001 15:49",
+		"oidString" : "rww 9/21/2010 14:38" },
+	"instance" : {
+		"copy4:to:startingAt:" : "LC 6/24/2001 15:51",
+		"copy4ToOutput" : "LC 6/24/2001 15:51",
+		"copy64:" : "LC 6/24/2001 15:48",
+		"copy64:startingAt:" : "LC 10/26/2001 19:23",
+		"fFunction:" : "LC 10/26/2001 19:23",
+		"fRound:shift:" : "LC 6/24/2001 15:52",
+		"gFunction:" : "LC 6/24/2001 15:47",
+		"gRound:shift:" : "LC 6/24/2001 15:47",
+		"hFunction:" : "LC 6/24/2001 15:47",
+		"hRound:shift:" : "LC 6/24/2001 15:47",
+		"hashMessage:" : "len 10/16/2002 16:28",
+		"hashStream:" : "len 10/16/2002 16:28",
+		"initialize" : "len 10/16/2002 16:23",
+		"input:" : "LC 6/24/2001 15:46",
+		"lshift:bits:" : "LC 6/24/2001 15:47",
+		"mdFour64:" : "LC 6/24/2001 15:49",
+		"output" : "LC 6/24/2001 15:46",
+		"run" : "len 10/16/2002 16:26",
+		"turn" : "LC 6/24/2001 15:48" } }

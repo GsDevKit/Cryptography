@@ -1,8 +1,8 @@
 {
 	"class" : {
 		"blockSize" : "len 8/9/2002 13:14",
-		"calculateInvTTables" : "PaulDeBruicker 11/30/2010 15:57",
-		"calculateTTables" : "PaulDeBruicker 11/30/2010 15:57",
+		"calculateInvTTables" : "cs 8/8/2002 16:48",
+		"calculateTTables" : "cs 8/8/2002 16:44",
 		"initialize" : "len 8/8/2002 17:52",
 		"initializeLogInverseTable" : "cs 8/8/2002 16:12",
 		"initializeLogTable" : "cs 8/8/2002 16:11",

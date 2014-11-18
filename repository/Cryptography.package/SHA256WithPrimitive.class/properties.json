@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-SHA256",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state" ],
+	"name" : "SHA256WithPrimitive",
+	"pools" : [
+		 ],
+	"super" : "SHA256",
+	"type" : "normal" }

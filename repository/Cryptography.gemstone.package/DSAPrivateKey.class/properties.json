@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-DSA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"p",
+		"q",
+		"g",
+		"x" ],
+	"name" : "DSAPrivateKey",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

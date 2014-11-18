@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"byte1:byte2:byte3:byte4:" : "PaulDeBruicker 11/30/2010 15:56",
-		"loadFrom:at:" : "PaulDeBruicker 11/30/2010 15:56" },
+		"byte1:byte2:byte3:byte4:" : "",
+		"loadFrom:at:" : "" },
 	"instance" : {
-		"asByteArray" : "PaulDeBruicker 11/30/2010 15:56",
-		"asReverseInteger" : "PaulDeBruicker 11/30/2010 15:56",
-		"bitShift:" : "PaulDeBruicker 11/30/2010 15:56",
-		"byte1:byte2:byte3:byte4:" : "PaulDeBruicker 11/30/2010 15:56",
-		"byteAt:" : "PaulDeBruicker 11/30/2010 15:56",
-		"reverseLoadFrom:at:" : "PaulDeBruicker 11/30/2010 15:56",
-		"storeInto:at:" : "PaulDeBruicker 11/30/2010 15:56" } }
+		"asByteArray" : "len 8/7/2002 17:37",
+		"asReverseInteger" : "DSM 1/20/2000 17:17",
+		"bitShift:" : "RJT 10/28/2005 15:42",
+		"byte1:byte2:byte3:byte4:" : "cs 8/7/2002 16:12",
+		"byteAt:" : "len 8/15/2002 01:34",
+		"reverseLoadFrom:at:" : "mdr 2/23/2001 22:51",
+		"storeInto:at:" : "len 8/15/2002 01:29" } }

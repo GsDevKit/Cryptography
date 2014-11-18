@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"initialize" : "rww 1/23/2007 16:48",
+		"initializeFirstHalfPITable" : "rww 1/23/2007 16:47",
+		"initializeSecondHalfPITable" : "rww 1/23/2007 16:48",
+		"oidString" : "rww 9/21/2010 14:37",
+		"piTable" : "rww 1/23/2007 17:32" },
+	"instance" : {
+		"appendChecksumToInput:" : "rww 1/23/2007 19:58",
+		"appendPaddingToInput:" : "rww 1/23/2007 19:43",
+		"hashMessage:" : "rww 1/23/2007 19:44",
+		"piTable" : "rww 1/23/2007 17:34",
+		"processBlocks:" : "rww 1/23/2007 17:55" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"byte1:byte2:byte3:byte4:" : "PaulDeBruicker 11/30/2010 15:56",
+		"loadFrom:at:" : "PaulDeBruicker 11/30/2010 15:56" },
+	"instance" : {
+		"asByteArray" : "PaulDeBruicker 11/30/2010 15:56",
+		"asReverseInteger" : "PaulDeBruicker 11/30/2010 15:56",
+		"bitShift:" : "PaulDeBruicker 11/30/2010 15:56",
+		"byte1:byte2:byte3:byte4:" : "PaulDeBruicker 11/30/2010 15:56",
+		"byteAt:" : "PaulDeBruicker 11/30/2010 15:56",
+		"reverseLoadFrom:at:" : "PaulDeBruicker 11/30/2010 15:56",
+		"storeInto:at:" : "PaulDeBruicker 11/30/2010 15:56" } }

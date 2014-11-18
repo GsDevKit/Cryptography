@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-ASN1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Modules" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"definitions",
+		"imports" ],
+	"name" : "ASN1Module",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

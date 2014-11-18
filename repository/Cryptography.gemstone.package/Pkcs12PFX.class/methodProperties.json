@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "rww 4/20/2007 22:28",
+		"initializeASN1Types" : "rww 4/13/2007 22:09" },
+	"instance" : {
+		"authSafe" : "rww 3/29/2007 11:55",
+		"authSafe:" : "rww 3/30/2007 10:14",
+		"macData" : "rww 3/29/2007 11:55",
+		"macData:" : "rww 3/29/2007 11:55",
+		"version" : "rww 3/29/2007 11:55",
+		"version:" : "rww 3/29/2007 11:55" } }

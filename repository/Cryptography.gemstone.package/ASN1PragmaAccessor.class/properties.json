@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-ASN1-DefinitionModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ASN1PragmaAccessor",
+	"pools" : [
+		 ],
+	"super" : "ASN1Pragma",
+	"type" : "normal" }

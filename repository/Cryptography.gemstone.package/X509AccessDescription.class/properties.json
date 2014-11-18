@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"accessMethod",
+		"accessLocation" ],
+	"name" : "X509AccessDescription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

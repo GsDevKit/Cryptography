@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"seed",
+		"key" ],
+	"name" : "SecureRandom",
+	"pools" : [
+		 ],
+	"super" : "RandomGenerator",
+	"type" : "normal" }

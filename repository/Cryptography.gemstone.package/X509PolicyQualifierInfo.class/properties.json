@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"qualifier" ],
+	"name" : "X509PolicyQualifierInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

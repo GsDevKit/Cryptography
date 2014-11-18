@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"bits:" : "cmm 2/15/2006 00:02",
+		"candidate:" : "LC 1/16/2002 08:39",
+		"primeOfSize:" : "len 10/26/2002 16:10",
+		"safePrimeOfSize:" : "len 10/26/2002 16:27" },
+	"instance" : {
+		"+=" : "len 10/25/2002 15:12",
+		"nextPrime" : "len 10/25/2002 15:13",
+		"nextSafePrime" : "len 10/26/2002 16:27",
+		"satisfied" : "len 10/26/2002 16:24",
+		"satisfiedSafe" : "len 10/26/2002 16:26",
+		"setCandidate:" : "len 10/26/2002 16:12" } }

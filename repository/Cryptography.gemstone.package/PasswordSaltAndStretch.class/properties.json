@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 2/9/2007 16:00",
+	"instvars" : [
+		"r",
+		"s" ],
+	"name" : "PasswordSaltAndStretch",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

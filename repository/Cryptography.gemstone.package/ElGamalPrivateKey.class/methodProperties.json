@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"setModulo:generator:secretExponent:" : "cs 8/5/2002 20:04" },
+	"instance" : {
+		"decryptElement:" : "len 10/26/2002 16:30",
+		"hashFunction" : "cs 8/5/2002 20:26",
+		"setModulo:generator:secretExponent:" : "cs 8/5/2002 20:05",
+		"signMessage:" : "cmm 2/15/2006 00:03" } }

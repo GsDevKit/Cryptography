@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addedTo:" : "rww 3/23/2007 14:46",
+		"decodeWithDERStream:" : "rww 3/26/2007 05:32",
+		"encode:withDERStream:" : "rww 3/25/2007 23:14",
+		"explicitTag:" : "rww 3/24/2007 10:39",
+		"implicitTag:" : "rww 3/24/2007 10:39",
+		"isTypeFor:" : "rww 3/25/2007 23:12",
+		"matchesTag:" : "rww 3/23/2007 21:56",
+		"owner" : "rww 3/23/2007 14:43",
+		"owner:" : "rww 3/23/2007 14:43",
+		"symbol" : "rww 3/23/2007 14:43",
+		"symbol:" : "rww 3/23/2007 14:43",
+		"type" : "rww 3/23/2007 14:43",
+		"type:" : "rww 3/23/2007 14:43" } }

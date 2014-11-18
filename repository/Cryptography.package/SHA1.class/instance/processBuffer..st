@@ -3,7 +3,9 @@ processBuffer: aByteArray
 	"Process given 64-byte buffer, accumulating the results in totalA through totalE."
 
 	| a b c d e w tmp |
-totals := nil.
+	self primHasSecureHashPrimitive
+		ifTrue: [^ self processBufferUsingPrimitives: aByteArray]
+		ifFalse: [totals := nil].
 
 	"initialize registers a through e from the current totals" 
 	a := totalA copy.

@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CBC",
+	"pools" : [
+		 ],
+	"super" : "BlockCipherMode",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"at:" : "rww 3/27/2007 20:29",
+		"at:put:" : "rww 3/27/2007 16:49",
+		"decodeWithDERStream:" : "rww 3/27/2007 16:15",
+		"decodeWithDERStream:owner:ownerType:" : "rww 3/27/2007 16:43",
+		"defaultType" : "rww 3/27/2007 20:28",
+		"defaultType:" : "rww 3/27/2007 20:30",
+		"definedBy" : "rww 3/27/2007 16:02",
+		"definedBy:" : "rww 3/27/2007 16:02",
+		"encode:withDERStream:" : "rww 3/27/2007 16:15",
+		"encode:withDERStream:owner:ownerType:" : "rww 3/27/2007 16:43",
+		"initialize" : "rww 3/27/2007 16:02",
+		"matchesTag:" : "rww 3/27/2007 16:47",
+		"typeMap" : "rww 3/27/2007 15:56",
+		"typeMap:" : "rww 3/27/2007 15:56" } }

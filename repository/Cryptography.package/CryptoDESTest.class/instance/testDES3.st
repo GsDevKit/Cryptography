@@ -6,4 +6,4 @@ testDES3
 	plainCopy := plain copy.
 	d := DES key: key.
 	d encryptBlock: plainCopy.
-	self assert: plainCopy asByteArray = #(64 222 70 13 59 145 76 186).
+	self assert: plainCopy asByteArray = #[64 222 70 13 59 145 76 186].

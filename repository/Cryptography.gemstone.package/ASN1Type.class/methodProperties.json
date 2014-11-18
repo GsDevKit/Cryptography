@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asn1Tag" : "rww 3/25/2007 10:26",
+		"decodeValueWithDERStream:length:" : "rww 3/26/2007 05:58",
+		"decodeWithDERStream:" : "rww 4/14/2007 10:30",
+		"decodeWithDERStream:owner:ownerType:" : "rww 3/27/2007 16:27",
+		"encode:withDERStream:" : "rww 3/27/2007 15:45",
+		"encode:withDERStream:owner:ownerType:" : "rww 3/27/2007 16:28",
+		"encodeValue:withDERStream:" : "rww 3/25/2007 11:02",
+		"isConstructed" : "rww 3/25/2007 23:40",
+		"isTypeFor:" : "rww 3/25/2007 17:07",
+		"matchesTag:" : "rww 3/25/2007 10:27",
+		"parent" : "rww 3/23/2007 16:57",
+		"sizeOfObject:" : "rww 3/25/2007 20:19",
+		"tag" : "rww 3/23/2007 17:16" } }

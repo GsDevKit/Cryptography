@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"fromBytes:" : "rww 3/29/2007 09:45",
+		"fromFile:" : "rww 3/26/2007 09:26",
+		"initialize" : "rww 3/26/2007 14:31",
+		"initializeASN1Types" : "rww 3/30/2007 13:47" },
+	"instance" : {
+		"asAsn1Bytes" : "rww 3/28/2007 12:03",
+		"asDerCertificateList" : "rww 3/28/2007 12:07",
+		"signature" : "rww 9/14/2006 21:36",
+		"signature:" : "rww 9/14/2006 21:36",
+		"signatureAlgorithm" : "rww 9/14/2006 21:36",
+		"signatureAlgorithm:" : "rww 9/14/2006 21:36",
+		"tbsCertificate" : "rww 9/15/2006 13:16",
+		"tbsCertificate:" : "rww 9/15/2006 13:16",
+		"verifyFromParentCertificate:" : "rww 4/28/2007 19:33",
+		"verifyMD2WithRSAEncryptionFromParentCertificate:" : "rww 3/28/2007 12:07",
+		"verifyMD5WithRSAEncryptionFromParentCertificate:" : "rww 3/28/2007 12:07",
+		"verifySHA1WithDSAEncryptionFromParentCertificate:" : "rww 3/28/2007 12:07",
+		"verifySHA1WithRSAEncryptionFromParentCertificate:" : "rww 3/28/2007 12:07" } }

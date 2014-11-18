@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"blockSize" : "cmm 2/9/2006 23:49",
+		"hashSize" : "cmm 2/20/2006 23:20",
+		"isPluginAvailable" : "PaulDeBruicker 11/30/2010 14:42",
+		"new" : "ul 3/6/2008 03:22",
+		"oidString" : "rww 9/21/2010 14:38" },
+	"instance" : {
+		"finalHash" : "ul 3/6/2008 03:19",
+		"hashStream:" : "ul 3/7/2008 19:09",
+		"processBuffer:" : "ul 3/6/2008 03:14",
+		"processFinalBuffer:bitLength:" : "ul 3/6/2008 03:20",
+		"storeLength:in:" : "RJT 10/14/2005 19:36" } }

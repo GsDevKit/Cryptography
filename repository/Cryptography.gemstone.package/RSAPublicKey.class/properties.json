@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-RSA",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"exponent",
+		"modulo" ],
+	"name" : "RSAPublicKey",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

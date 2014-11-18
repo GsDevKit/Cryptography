@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-ASN1-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ASN1BitStringType",
+	"pools" : [
+		 ],
+	"super" : "ASN1OctetsType",
+	"type" : "normal" }

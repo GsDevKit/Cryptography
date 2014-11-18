@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"primes",
+		"residues",
+		"satisfied" ],
+	"name" : "PrimesWheel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

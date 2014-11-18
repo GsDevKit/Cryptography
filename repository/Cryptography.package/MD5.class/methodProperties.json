@@ -2,15 +2,12 @@
 	"class" : {
 		"blockSize" : "ul 3/3/2008 23:37",
 		"hashSize" : "ul 3/3/2008 23:37",
-		"isPluginAvailable" : "PaulDeBruicker 11/30/2010 14:42",
+		"isPluginAvailable" : "ul 3/4/2008 00:05",
 		"new" : "ul 3/7/2008 01:12" },
 	"instance" : {
 		"finalHash" : "ul 3/7/2008 16:49",
-		"finalValue" : "ul 3/3/2008 21:34",
 		"hashStream:" : "ul 3/7/2008 17:46",
-		"initialize" : "PaulDeBruicker 11/30/2010 15:17",
 		"initializeState" : "ul 3/7/2008 17:46",
-		"primProcessBuffer:withState:" : "PaulDeBruicker 11/30/2010 15:05",
 		"processBuffer:" : "ul 3/7/2008 01:10",
 		"processFinalBuffer:bitLength:" : "ul 3/3/2008 22:51",
 		"storeLength:in:" : "ul 3/3/2008 22:51" } }

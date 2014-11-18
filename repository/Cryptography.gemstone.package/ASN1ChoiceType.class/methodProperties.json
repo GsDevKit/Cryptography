@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decodeValueWithDERStream:length:" : "rww 3/28/2007 16:59",
+		"decodeWithDERStream:" : "rww 3/25/2007 23:52",
+		"encode:withDERStream:" : "rww 3/25/2007 17:06",
+		"matchesTag:" : "rww 3/24/2007 11:02",
+		"newElement" : "rww 3/23/2007 14:47" } }

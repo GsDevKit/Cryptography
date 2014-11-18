@@ -5,9 +5,9 @@
 		"areAllBitsSet" : "rww 12/7/2002 23:27",
 		"asArray" : "rww 1/2/2003 00:30",
 		"asAsn1Bytes" : "rww 3/28/2007 12:02",
+		"asByteArray" : "rww 1/2/2003 00:29",
 		"asByteArrayOfSize:" : "cmm 1/26/2007 00:18",
 		"asn1Tag" : "rww 3/25/2007 10:44",
 		"inverseModulo:" : "len 11/14/2002 11:51",
-		"raisedTo:modulo:" : "PaulDeBruicker 11/30/2010 14:41",
 		"toEBase64String" : "rww 1/13/2003 01:22",
 		"twosComplement" : "rww 12/7/2002 23:28" } }

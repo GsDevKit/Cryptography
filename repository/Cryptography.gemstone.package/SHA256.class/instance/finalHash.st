@@ -1,0 +1,4 @@
+accessing
+finalHash
+
+	self subclassResponsibility

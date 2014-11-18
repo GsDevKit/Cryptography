@@ -1,0 +1,21 @@
+{
+	"category" : "Cryptography-ASN1-DefinitionModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fieldName",
+		"tagIndex",
+		"tagType",
+		"explicitFieldDefinition",
+		"implicitFieldDefinition",
+		"defaultValue",
+		"isExplicit",
+		"isOptional" ],
+	"name" : "ASN1FieldDefinition",
+	"pools" : [
+		 ],
+	"super" : "ASN1Value",
+	"type" : "normal" }

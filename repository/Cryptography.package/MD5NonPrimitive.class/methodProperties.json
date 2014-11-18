@@ -1,11 +1,10 @@
 {
 	"class" : {
-		"initialize" : "PaulDeBruicker 11/30/2010 15:56" },
+		"initialize" : "mdr 2/23/2001 22:50" },
 	"instance" : {
 		"fX:Y:Z:" : "DSM 1/20/2000 01:47",
 		"ffA:B:C:D:M:S:T:" : "DSM 1/20/2000 13:38",
 		"finalHash" : "ul 3/7/2008 16:50",
-		"finalValue" : "len 10/15/2002 19:58",
 		"gX:Y:Z:" : "DSM 1/20/2000 01:48",
 		"ggA:B:C:D:M:S:T:" : "DSM 1/20/2000 13:38",
 		"hX:Y:Z:" : "DSM 1/20/2000 01:48",

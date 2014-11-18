@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-RandomAndPrime",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cmm 5/4/2006 15:28",
+	"instvars" : [
+		"key",
+		"ctr" ],
+	"name" : "Fortuna",
+	"pools" : [
+		 ],
+	"super" : "RandomGenerator",
+	"type" : "normal" }

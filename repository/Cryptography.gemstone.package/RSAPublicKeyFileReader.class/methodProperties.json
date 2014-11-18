@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"fromFile:" : "rww 9/23/2010 03:45" },
+	"instance" : {
+		"asASN1Value" : "rww 9/23/2010 03:50",
+		"asPublicKey" : "rww 9/28/2010 07:00",
+		"bytes" : "rww 9/23/2010 03:47",
+		"bytes:" : "rww 9/23/2010 03:46",
+		"initializeFromFileContents:" : "rww 9/23/2010 03:48" } }

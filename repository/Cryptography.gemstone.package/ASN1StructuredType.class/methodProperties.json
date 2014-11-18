@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:type:" : "rww 3/23/2007 14:52",
+		"add:type:explicitTag:" : "rww 3/24/2007 10:40",
+		"add:type:implicitTag:" : "rww 3/24/2007 10:40",
+		"addElement:" : "rww 3/23/2007 14:52",
+		"elementWithSymbol:" : "rww 3/27/2007 16:32",
+		"elements" : "rww 3/22/2007 22:13",
+		"elements:" : "rww 3/22/2007 22:13",
+		"hasElements" : "rww 3/23/2007 18:36",
+		"initialize" : "rww 3/23/2007 13:49",
+		"newElement" : "rww 3/23/2007 14:47" } }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"destroyPickers" : "dkh 11/18/2014 10:25",
+		"fromUser" : "cmm 5/4/2006 00:06",
+		"generateKey" : "cmm 12/16/2006 10:49",
+		"initialize" : "cmm 12/16/2006 10:14",
+		"key:" : "cmm 5/4/2006 00:20",
+		"picker" : "cmm 5/4/2006 00:06",
+		"shutDown" : "cmm 12/16/2006 10:21",
+		"startUp" : "cmm 12/16/2006 10:21",
+		"unpredictableStringsDo:" : "cmm 12/16/2006 10:55",
+		"withGeneratedKey" : "cmm 5/4/2006 00:12" },
+	"instance" : {
+		"destroy" : "cmm 5/4/2006 15:45",
+		"nextBits:" : "cmm 5/4/2006 00:09",
+		"nextBytes:" : "cmm 5/4/2006 00:18",
+		"nextFrom:to:" : "cmm 5/4/2006 00:09",
+		"nextInt:" : "cmm 5/4/2006 00:10" } }

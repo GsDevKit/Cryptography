@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-ElGamal",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"p",
+		"alpha",
+		"a" ],
+	"name" : "ElGamalKeyGenerator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

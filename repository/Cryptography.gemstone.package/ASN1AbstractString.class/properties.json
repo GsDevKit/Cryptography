@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-ASN1-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"string" ],
+	"name" : "ASN1AbstractString",
+	"pools" : [
+		 ],
+	"super" : "ASN1Value",
+	"type" : "normal" }

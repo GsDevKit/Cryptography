@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-RC4",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sbox",
+		"i",
+		"j" ],
+	"name" : "ARC4",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

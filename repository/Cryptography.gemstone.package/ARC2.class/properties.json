@@ -1,0 +1,18 @@
+{
+	"category" : "Cryptography-ARC2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PITABLE" ],
+	"commentStamp" : "RJT 3/30/2007 09:48",
+	"instvars" : [
+		"T1",
+		"T8",
+		"TM",
+		"keyHolder",
+		"j" ],
+	"name" : "ARC2",
+	"pools" : [
+		 ],
+	"super" : "BlockCipher",
+	"type" : "normal" }

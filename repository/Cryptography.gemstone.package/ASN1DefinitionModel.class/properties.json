@@ -1,0 +1,23 @@
+{
+	"category" : "Cryptography-ASN1-DefinitionModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "RJT 9/2/2006 23:09",
+	"instvars" : [
+		"subject",
+		"asn1ClassName",
+		"asn1DefinitionString",
+		"fields",
+		"resultObject",
+		"currentObject",
+		"currentField",
+		"currentMutator",
+		"currentAccessor",
+		"fieldStack" ],
+	"name" : "ASN1DefinitionModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

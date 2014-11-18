@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"initializeASN1Types" : "rww 3/28/2007 16:23" },
+	"instance" : {
+		"certIssuer" : "rww 3/28/2007 16:52",
+		"certIssuer:" : "rww 3/28/2007 16:52",
+		"certSerialNumber" : "rww 3/28/2007 16:52",
+		"certSerialNumber:" : "rww 3/28/2007 16:52",
+		"keyIdentifier" : "rww 3/28/2007 16:52",
+		"keyIdentifier:" : "rww 3/28/2007 16:52" } }

@@ -11,4 +11,4 @@
 	"pools" : [
 		 ],
 	"super" : "OrderedCollection",
-	"type" : "variable" }
+	"type" : "normal" }

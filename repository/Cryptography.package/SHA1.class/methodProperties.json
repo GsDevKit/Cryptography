@@ -13,7 +13,11 @@
 		"hashInteger:seed:" : "mtf 3/9/2010 17:29",
 		"hashStream:" : "rww 9/21/2006 12:44",
 		"initializeTotals" : "jm 12/21/1999 19:38",
-		"initializeTotalsArray" : "PaulDeBruicker 11/30/2010 16:11",
-		"processBuffer:" : "PaulDeBruicker 11/30/2010 14:59",
+		"initializeTotalsArray" : "jm 12/21/1999 19:38",
+		"primExpandBlock:into:" : "jm 12/21/1999 20:11",
+		"primHasSecureHashPrimitive" : "jm 12/21/1999 22:58",
+		"primHashBlock:using:" : "jm 12/21/1999 20:13",
+		"processBuffer:" : "jm 12/21/1999 19:43",
+		"processBufferUsingPrimitives:" : "jm 12/21/1999 23:32",
 		"processFinalBuffer:bitLength:" : "jm 12/14/1999 11:40",
 		"storeLength:in:" : "jm 12/14/1999 11:10" } }

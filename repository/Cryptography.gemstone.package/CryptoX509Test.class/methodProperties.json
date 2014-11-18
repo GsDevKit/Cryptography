@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"certificate1" : "rww 3/26/2007 09:24",
+		"certificate1DerBytes" : "rww 1/28/2007 17:54",
+		"certificate2" : "rww 3/26/2007 09:25",
+		"certificate2DerBytes" : "rww 1/28/2007 17:55",
+		"certificate3" : "rww 3/26/2007 09:25",
+		"certificate3DerBytes" : "rww 1/28/2007 17:55",
+		"certificate4" : "rww 3/26/2007 09:25",
+		"certificate4DerBytes" : "rww 1/28/2007 17:56",
+		"testAsnDerEncoding" : "rww 3/28/2007 12:06",
+		"testSignatureValidation" : "rww 6/30/2010 14:44" } }

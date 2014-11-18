@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"secretId",
+		"secretValue" ],
+	"name" : "Pkcs12SecretBag",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

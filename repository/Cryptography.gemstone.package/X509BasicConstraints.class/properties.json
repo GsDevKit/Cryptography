@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ca",
+		"pathLengthConstraint" ],
+	"name" : "X509BasicConstraints",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

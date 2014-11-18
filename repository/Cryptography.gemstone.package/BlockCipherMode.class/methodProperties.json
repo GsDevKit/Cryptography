@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"blockSize" : "len 8/9/2002 13:12",
+		"key:" : "rww 10/5/2006 07:00",
+		"keySize" : "len 8/9/2002 13:12",
+		"on:" : "len 8/3/2002 01:48" },
+	"instance" : {
+		"blockSize" : "len 8/3/2002 01:39",
+		"destroy" : "cmm 5/4/2006 15:41",
+		"initialVector:" : "cmm 1/3/2007 20:49",
+		"key:" : "len 8/3/2002 01:39",
+		"keySize" : "len 8/3/2002 01:39",
+		"printOn:" : "rww 11/19/2002 02:17",
+		"setCipher:" : "cmm 5/4/2006 15:33",
+		"vector:" : "cmm 1/3/2007 21:17" } }

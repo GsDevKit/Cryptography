@@ -1,0 +1,16 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tbsCertificate",
+		"signatureAlgorithm",
+		"signature" ],
+	"name" : "X509Certificate",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

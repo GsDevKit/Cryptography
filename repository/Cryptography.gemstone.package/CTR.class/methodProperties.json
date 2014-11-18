@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"counter" : "cmm 2/20/2006 23:07",
+		"counter:" : "cmm 5/11/2006 23:14",
+		"counterBits:" : "cmm 5/11/2006 16:52",
+		"counterBytes" : "cmm 5/11/2006 17:23",
+		"decryptBlock:" : "cmm 2/8/2006 23:57",
+		"destroy" : "cmm 12/13/2006 20:53",
+		"encryptBlock:" : "cmm 12/13/2006 20:53",
+		"highestNonce" : "cmm 12/2/2006 16:41",
+		"incrementCounter" : "cmm 2/28/2006 13:06",
+		"incrementNonce" : "cmm 5/11/2006 22:42",
+		"initialize" : "cmm 12/2/2006 16:45",
+		"isExpired" : "cmm 12/2/2006 16:42",
+		"isStreamCipher" : "cmm 3/2/2006 23:51",
+		"nextBlock" : "cmm 2/20/2006 23:45",
+		"nonce" : "cmm 5/11/2006 17:31",
+		"nonce:" : "cmm 5/11/2006 22:37",
+		"nonceBits" : "cmm 5/11/2006 22:30",
+		"positionOfCounter" : "cmm 5/11/2006 17:26",
+		"positionOfNonce" : "cmm 5/11/2006 17:23",
+		"setCipher:" : "cmm 2/26/2006 22:11" } }

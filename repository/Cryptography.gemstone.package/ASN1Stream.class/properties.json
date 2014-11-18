@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-ASN1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TagToTypeDispatchTable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"currentTag" ],
+	"name" : "ASN1Stream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

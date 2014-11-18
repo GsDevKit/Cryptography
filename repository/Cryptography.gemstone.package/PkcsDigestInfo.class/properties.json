@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"digestAlgorithm",
+		"digest" ],
+	"name" : "PkcsDigestInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fromAsnDerBytes:" : "rww 3/28/2007 11:17",
+		"notesOnAsnEncoding" : "rww 1/2/2003 02:31",
+		"p:q:g:y:" : "len 8/15/2002 02:20",
+		"test1" : "rww 3/28/2007 12:07" },
+	"instance" : {
+		"=" : "rww 7/1/2010 06:22",
+		"asAsn1Bytes" : "rww 3/28/2007 12:07",
+		"base64CryptoHash" : "rww 3/28/2007 12:06",
+		"dssSig" : "rww 1/2/2003 02:19",
+		"p:q:g:y:" : "len 8/15/2002 02:20",
+		"stringToSignature:" : "len 8/15/2002 02:13",
+		"subjectPublicKey" : "rww 3/28/2007 12:06",
+		"verify:isSignatureOf:" : "len 8/15/2002 02:17",
+		"verifySignature:ofMessageHash:" : "len 11/15/2002 23:23" } }

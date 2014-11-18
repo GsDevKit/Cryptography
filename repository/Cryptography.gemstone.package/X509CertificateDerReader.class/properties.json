@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-X509-Readers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"derBytes" ],
+	"name" : "X509CertificateDerReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,7 +1,11 @@
 inquires
 instanceID
-  | key |
-  key := #'SmalltalkImageInstanceID_instanceID'.
-  ^ SessionTemps current
-    at: key
-    ifAbsent: [ SessionTemps current at: key put: UUID new ]
+	
+	^InstanceID ifNil: [
+		Transcript show: thisContext sender.
+		thisContext sender receiver = self ifTrue: [
+			InstanceID := UUID new.
+		] ifFalse: [
+			InstanceID := nil
+		].
+		InstanceID].

@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-X509",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"algorithm",
+		"subjectPublicKey" ],
+	"name" : "X509SubjectPublicKeyInfo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

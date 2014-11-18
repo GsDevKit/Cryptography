@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decodeValueIndefiniteLengthWithDERStream:" : "rww 4/14/2007 11:47",
+		"decodeValueWithDERStream:length:" : "rww 4/14/2007 10:28",
+		"encodeValue:withDERStream:" : "rww 3/25/2007 20:21",
+		"sizeOfObject:" : "rww 4/14/2007 18:09" } }

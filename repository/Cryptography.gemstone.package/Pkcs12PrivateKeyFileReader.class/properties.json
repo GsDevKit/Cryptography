@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-PKCS12",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pfx",
+		"privateKeys",
+		"certs",
+		"password" ],
+	"name" : "Pkcs12PrivateKeyFileReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

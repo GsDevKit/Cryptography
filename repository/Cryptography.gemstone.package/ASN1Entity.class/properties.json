@@ -1,0 +1,15 @@
+{
+	"category" : "Cryptography-ASN1-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"symbol",
+		"module" ],
+	"name" : "ASN1Entity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

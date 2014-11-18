@@ -1,0 +1,17 @@
+{
+	"category" : "Cryptography-DES",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cookedKey",
+		"key",
+		"encrypting",
+		"nonPrimitive" ],
+	"name" : "DES",
+	"pools" : [
+		 ],
+	"super" : "BlockCipher",
+	"type" : "normal" }
