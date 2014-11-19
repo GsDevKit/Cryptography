@@ -9,5 +9,5 @@
 		"testRSA128" : "rww 10/5/2006 06:48",
 		"testRSA64" : "rww 10/5/2006 06:48",
 		"testRSASHASignVerification" : "dik 9/23/2010 11:31",
-		"testRSASHASigning" : "PaulDeBruicker 11/30/2010 14:57",
+		"testRSASHASigning" : "dkh 11/19/2014 12:20",
 		"testSignVerificationByGeneratedKeys" : "dik 9/28/2010 13:38" } }

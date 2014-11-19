@@ -10,5 +10,5 @@
 		"testCTR" : "rww 10/5/2006 07:03",
 		"testEncryptDecrypt" : "rww 10/5/2006 07:02",
 		"testOFB" : "rww 10/5/2006 07:03",
-		"testRijndael" : "rww 10/5/2006 06:54",
-		"testRijndael128128" : "rww 10/5/2006 06:55" } }
+		"testRijndael" : "dkh 11/19/2014 12:18",
+		"testRijndael128128" : "dkh 11/19/2014 12:19" } }

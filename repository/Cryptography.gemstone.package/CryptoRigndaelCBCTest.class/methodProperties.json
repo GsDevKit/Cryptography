@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testByteArrayFromHexString" : "rww 6/30/2010 16:39",
-		"testRFC3602Case1" : "RJT 7/10/2006 18:44",
-		"testRFC3602Case2" : "RJT 7/10/2006 18:43",
-		"testRFC3602Case3" : "RJT 7/10/2006 18:45",
-		"testRFC3602Case4" : "RJT 7/10/2006 19:13" } }
+		"testByteArrayFromHexString" : "dkh 11/19/2014 12:23",
+		"testRFC3602Case1" : "dkh 11/19/2014 12:18",
+		"testRFC3602Case2" : "dkh 11/19/2014 12:18",
+		"testRFC3602Case3" : "dkh 11/19/2014 12:18",
+		"testRFC3602Case4" : "dkh 11/19/2014 12:18" } }
