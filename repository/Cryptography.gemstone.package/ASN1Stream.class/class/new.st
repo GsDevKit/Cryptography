@@ -1,4 +1,3 @@
 instance creation
 new
-
-	^ self onStream: (ByteArray new: 100) writeStream.
+  ^ self onStream: ByteArray new writeStream
