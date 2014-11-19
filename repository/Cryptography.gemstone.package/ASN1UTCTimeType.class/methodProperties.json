@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"decodeValueWithDERStream:length:" : "rww 4/21/2007 16:37",
+		"decodeValueWithDERStream:length:" : "dkh 11/18/2014 16:57",
 		"encodeValue:withDERStream:" : "rww 3/25/2007 12:32",
 		"isTypeFor:" : "rww 3/25/2007 17:15",
 		"sizeOfObject:" : "rww 3/25/2007 11:54",
