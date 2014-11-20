@@ -53,7 +53,7 @@ baseline: spec
         group: 'CI' with: #('Cryptography' 'PasswordHashingFFI');
         yourself ].
   spec
-    for: #(#'gs3.0.x' #'gs3.1.x' #'gs3.2.0.x')
+    for: #(#'gs3.0.x' #'gs3.1.x')
     do: [ 
       spec
         package: 'CryptographyPlatform'
