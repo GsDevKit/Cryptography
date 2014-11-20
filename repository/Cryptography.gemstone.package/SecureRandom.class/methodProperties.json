@@ -10,9 +10,10 @@
 		"next" : "len 8/4/2002 00:22",
 		"next:into:" : "len 8/4/2002 00:34",
 		"nextBits:" : "len 8/4/2002 00:43",
-		"nextBytes:" : "cmm 5/4/2006 00:18",
+		"nextBytes:" : "dkh 11/20/2014 15:06",
 		"nextBytesNonZero:" : "rww 12/13/2006 10:03",
 		"nextFrom:to:" : "cmm 2/15/2006 00:00",
 		"nextInt:" : "dkh 11/19/2014 21:24",
 		"nextRandom160" : "len 8/4/2002 00:21",
-		"printOn:" : "cmm 2/13/2006 21:30" } }
+		"printOn:" : "cmm 2/13/2006 21:30",
+		"privateKey:seed:" : "dkh 11/20/2014 14:39" } }

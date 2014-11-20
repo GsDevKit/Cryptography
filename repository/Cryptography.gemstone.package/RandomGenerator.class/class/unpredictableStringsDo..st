@@ -13,11 +13,11 @@ unpredictableStringsDo: aBlock
       100 timesRepeat: [ aBlock value: UUID new ].
       gemVersionReport := System gemVersionReport.
       aBlock
-        value: (gemVersionReport at: 'gsBuildDate');
-        value: (gemVersionReport at: 'gsBuildSerialNum');
-        value: (gemVersionReport at: 'osVersion');
-        value: (gemVersionReport at: 'gsVersion');
-        value: (gemVersionReport at: 'processId') asString ].
+        value:
+          (gemVersionReport at: 'gsBuildDate') , (gemVersionReport at: 'gsBuildSerialNum')
+            , (gemVersionReport at: 'osVersion')
+            , (gemVersionReport at: 'gsVersion')
+            , (gemVersionReport at: 'processId') asString ].
   aBlock
     value: time asByteArray;
     value: Time millisecondClockValue asByteArray
