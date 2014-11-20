@@ -5,6 +5,6 @@ add: aType
   aType module: self.
   ^ old
     ifNotNil: [ 
-      old become: aType.
+      self gemStone: old become: aType.
       self definitions at: old name put: old ]
     ifNil: [ self definitions at: aType name put: aType ]
