@@ -1,0 +1,14 @@
+{
+	"category" : "CryptographyPlatform",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 11/19/2014 21:02",
+	"instvars" : [
+		 ],
+	"name" : "CryptoV20Platform",
+	"pools" : [
+		 ],
+	"super" : "CryptoPlatform",
+	"type" : "normal" }

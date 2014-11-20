@@ -1,3 +1,3 @@
 accessing
 bits
-	^ modulo highBit
+  ^ CryptoPlatform current highBitFor: modulo

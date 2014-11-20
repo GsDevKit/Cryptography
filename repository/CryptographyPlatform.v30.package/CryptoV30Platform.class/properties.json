@@ -1,0 +1,14 @@
+{
+	"category" : "CryptographyPlatform",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptoV30Platform",
+	"pools" : [
+		 ],
+	"super" : "CryptoPlatform",
+	"type" : "normal" }

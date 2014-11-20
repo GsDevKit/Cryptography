@@ -2,7 +2,7 @@ process
 v15SignMessageHash: encodedMsg
   | int emLen |
   emLen := (p * q) digitLength - 1.
-  int := LargeInteger new: emLen neg: false.
+  int := CryptoPlatform current largePositiveIntegerClass new: emLen neg: false.
   encodedMsg
     with: (encodedMsg size to: 1 by: -1)
     do: [ :each :index | int basicAt: index + 4 put: each ].

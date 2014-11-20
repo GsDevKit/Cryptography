@@ -16,6 +16,7 @@ unpredictableStringsDo: aBlock
         value: (gemVersionReport at: 'gsBuildDate');
         value: (gemVersionReport at: 'gsBuildSerialNum');
         value: (gemVersionReport at: 'osVersion');
+        value: (gemVersionReport at: 'gsVersion');
         value: (gemVersionReport at: 'processId') asString ].
   aBlock
     value: time asByteArray;

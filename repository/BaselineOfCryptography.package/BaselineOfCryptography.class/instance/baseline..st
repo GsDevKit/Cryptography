@@ -23,9 +23,18 @@ baseline: spec
                 file: 'Cryptography.gemstone';
                 requires: #('GLASS1' 'GsPharo');
                 yourself ];
+        package: 'Cryptography' with: [ spec includes: 'CryptographyPlatform' ];
+        package: 'CryptographyPlatform' with: [ spec requires: 'Cryptography' ];
         yourself.
       spec
         group: 'CI' with: #('Cryptography');
+        yourself ].
+  spec
+    for: #'gs2.x'
+    do: [ 
+      spec
+        package: 'CryptographyPlatform'
+          with: [ spec file: 'CryptographyPlatform.v20' ];
         yourself ].
   spec
     for: #'gs3.x'
@@ -37,7 +46,16 @@ baseline: spec
                 file: 'PasswordHashingFFI.gs3x';
                 requires: #('GLASS1');
                 yourself ];
+        package: 'CryptographyPlatform'
+          with: [ spec file: 'CryptographyPlatform.v322' ];
         yourself.
       spec
         group: 'CI' with: #('Cryptography' 'PasswordHashingFFI');
+        yourself ].
+  spec
+    for: #(#'gs3.0.x' #'gs3.1.x' #'gs3.2.x' #'gs3.2.1.x')
+    do: [ 
+      spec
+        package: 'CryptographyPlatform'
+          with: [ spec file: 'CryptographyPlatform.v30' ];
         yourself ]

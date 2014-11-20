@@ -1,0 +1,14 @@
+{
+	"category" : "Cryptography-Platform",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CryptoPlatform",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

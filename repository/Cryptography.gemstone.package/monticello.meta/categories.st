@@ -11,6 +11,7 @@ SystemOrganization addCategory: #'Cryptography-Gemstone'!
 SystemOrganization addCategory: #'Cryptography-MD4'!
 SystemOrganization addCategory: #'Cryptography-MD5'!
 SystemOrganization addCategory: #'Cryptography-PKCS12'!
+SystemOrganization addCategory: #'Cryptography-Platform'!
 SystemOrganization addCategory: #'Cryptography-RandomAndPrime'!
 SystemOrganization addCategory: #'Cryptography-RC4'!
 SystemOrganization addCategory: #'Cryptography-Rijndael'!

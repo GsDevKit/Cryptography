@@ -18,6 +18,8 @@ uint: bits at: anInteger
   bytes := bits // 8.
   bytes = 0
     ifTrue: [ ^ 0 ].
-  answer := LargeInteger new: bytes neg: false.
+  answer := CryptoPlatform current largePositiveIntegerClass
+    new: bytes
+    neg: false.
   1 to: bytes do: [ :digitPosition | answer digitAt: digitPosition put: (self at: digitPosition + anInteger - 1) ].
   ^ answer normalize

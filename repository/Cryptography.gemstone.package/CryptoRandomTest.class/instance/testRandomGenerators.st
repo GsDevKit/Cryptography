@@ -1,12 +1,15 @@
 others
 testRandomGenerators
-  | random randomBytes x |
+  | random randomBytes |
   RandomGenerator
     allSubclassesDo: [ :each | 
       random := each withGeneratedKey.
+      100 timesRepeat: [ self assert: ((random nextBits: 1) between: 0 and: 1) ].
       100
-        timesRepeat: [ self assert: ((x := random nextBits: 1) between: 0 and: 1) ].
-      100 timesRepeat: [ self assert: (random nextBits: 1024) highBit <= 1024 ].	"Random enough to span all 10 within 100-elements?"
+        timesRepeat: [ 
+          self
+            assert:
+              (CryptoPlatform current highBitFor: (random nextBits: 1024)) <= 1024 ].	"Random enough to span all 10 within 100-elements?"
       self
         assert:
           ((1 to: 100) collect: [ :n | random nextInt: 10 ]) asSet asSortedCollection
