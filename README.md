@@ -1,4 +1,4 @@
-Cryptography
+Cryptography [![master branch:](https://travis-ci.org/GsDevKit/Cryptography.png?branch=master)](https://travis-ci.org/GsDevKit/Cryptography)
 ============
 
 GemStone port of the SqueakSource Cryptography project.
