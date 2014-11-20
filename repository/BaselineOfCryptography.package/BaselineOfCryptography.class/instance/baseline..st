@@ -47,7 +47,7 @@ baseline: spec
                 requires: #('GLASS1');
                 yourself ];
         package: 'CryptographyPlatform'
-          with: [ spec file: 'CryptographyPlatform.v322' ];
+          with: [ spec file: 'CryptographyPlatform.v32' ];
         yourself.
       spec
         group: 'CI' with: #('Cryptography' 'PasswordHashingFFI');
