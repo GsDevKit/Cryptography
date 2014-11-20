@@ -6,7 +6,7 @@ v15SignMessageHash: encodedMsg
   encodedMsg
     with: (encodedMsg size to: 1 by: -1)
     do: [ :each :index | int basicAt: index + 4 put: each ].
-  int basicAt: encodedMsg size + 1 put: 0.
-  encodedMsg size + 2 to: emLen - 1 do: [ :ind | int basicAt: ind put: 255 ].
-  int basicAt: emLen put: 1.
+  int basicAt: encodedMsg size + 1 + 4 put: 0.
+  encodedMsg size + 2 to: emLen - 1 do: [ :ind | int basicAt: ind + 4 put: 255 ].
+  int basicAt: emLen + 4 put: 1.
   ^ (self crypt: int) asByteArray
