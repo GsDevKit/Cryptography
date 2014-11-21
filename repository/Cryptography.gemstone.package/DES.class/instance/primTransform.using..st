@@ -1,4 +1,3 @@
 primitives
 primTransform: aByteArray using: cooked
-	
-	^ self primitiveFailed
+  ^ self _primitiveFailed: #'primTransform:using:' args: {}

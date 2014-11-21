@@ -1,4 +1,3 @@
 definitions - mapped
 enumerated: aSymbol
-
-	^self notYetImplemented
+  ^ self notYetImplemented

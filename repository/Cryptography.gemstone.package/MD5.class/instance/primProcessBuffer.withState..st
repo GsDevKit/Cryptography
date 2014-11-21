@@ -1,5 +1,3 @@
 private-buffers
 primProcessBuffer: aByteArray withState: s
-
-	
-	self primitiveFailed
+  ^ self _primitiveFailed: #'primProcessBuffer:withState:' args: {}

@@ -1,6 +1,3 @@
 primitives
 primCookKey: aByteArray mode: flag to: cooked
-	
-	^ self primitiveFailed
-
-	
+  ^ self _primitiveFailed: #'primCookKey:mode:to:' args: {}
