@@ -5,7 +5,7 @@ lehmer
 
   "do Preprocessing"
 
-  | a0 b0 a1 b1 aHat bHat higher aa bb cc dd q t r v1 bcc bdd quoRem e k |
+  | a0 b0 a1 b1 aHat bHat higher aa bb cc dd q t r v1 bcc bdd e k |
   b1 := b abs.
   a1 := a abs max: b1.
   b1 := a abs min: b1.
@@ -50,11 +50,10 @@ lehmer
       bb = 0
         ifTrue: [ 
           "Multi-precision step"
-          quoRem := a1 digitDiv: b1 neg: false.
           a1 := b1.
-          b1 := quoRem at: 2.
+          b1 := a1 // b1.
           u := v1.
-          v1 := u - ((quoRem at: 1) * u) ]
+          v1 := u - (a1 \\ b1 * u) ]
         ifFalse: [ 
           t := aa * a1 + (bb * b1).
           r := cc * a1 + (dd * b1).
