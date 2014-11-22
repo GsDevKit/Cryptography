@@ -1,6 +1,6 @@
 as yet unclassified
 run
-	((a isKindOf: LargePositiveInteger)
-		and: [b isKindOf: LargePositiveInteger])
-		ifTrue: [self lehmer]
-		ifFalse: [self doBasicAlgorithm]
+  ((a isKindOf: CryptoPlatform current largePositiveIntegerClass)
+    and: [ b isKindOf: CryptoPlatform current largePositiveIntegerClass ])
+    ifTrue: [ self lehmer ]
+    ifFalse: [ self doBasicAlgorithm ]
