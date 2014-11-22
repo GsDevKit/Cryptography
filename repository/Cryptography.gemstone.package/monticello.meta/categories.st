@@ -7,7 +7,6 @@ SystemOrganization addCategory: #'Cryptography-Core'!
 SystemOrganization addCategory: #'Cryptography-DES'!
 SystemOrganization addCategory: #'Cryptography-DSA'!
 SystemOrganization addCategory: #'Cryptography-ElGamal'!
-SystemOrganization addCategory: #'Cryptography-Gemstone'!
 SystemOrganization addCategory: #'Cryptography-MD4'!
 SystemOrganization addCategory: #'Cryptography-MD5'!
 SystemOrganization addCategory: #'Cryptography-PKCS12'!
