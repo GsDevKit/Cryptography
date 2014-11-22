@@ -8,12 +8,12 @@ baseline: spec
         baseline: 'GLASS1'
           with: [ 
               spec
-                loads: #('Base' 'Announcements');
+                loads: #('Base');
                 repository: 'github://glassdb/glass:dev/repository' ];
         configuration: 'GsPharo'
           with: [ 
               spec
-                version: '0.9.2';
+                version: '0.9.3';
                 repository: 'http://seaside.gemtalksystems.com/ss/PharoCompat' ];
         yourself.
       spec
