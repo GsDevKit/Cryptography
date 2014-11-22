@@ -8,8 +8,8 @@ baseline: spec
         baseline: 'GLASS1'
           with: [ 
               spec
-                loads: #('Base');
-                repository: 'github://glassdb/glass:dev/repository' ];
+                loads: #('GsSqueakCommon');
+                repository: 'github://glassdb/glass:master/repository' ];
         configuration: 'GsPharo'
           with: [ 
               spec
