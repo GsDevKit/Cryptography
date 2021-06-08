@@ -1,4 +1,4 @@
-Cryptography [![Build Status](https://github.com/GsDevKit/Cryptography/actions/workflows/ci.yml/badge.svg?branch=gemstone)](https://github.com/GsDevKit/Cryptography/actions/workflows/ci.yml)
+Cryptography [![Build Status](https://github.com/GsDevKit/Cryptography/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/GsDevKit/Cryptography/actions/workflows/ci.yml)
 ============
 
 GemStone port of the SqueakSource Cryptography project.
