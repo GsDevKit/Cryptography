@@ -40,17 +40,11 @@ baseline: spec
     for: #'gs3.x'
     do: [ 
       spec
-        package: 'PasswordHashingFFI'
-          with: [ 
-              spec
-                file: 'PasswordHashingFFI.gs3x';
-                requires: #('GLASS1');
-                yourself ];
         package: 'CryptographyPlatform'
           with: [ spec file: 'CryptographyPlatform.v32' ];
         yourself.
       spec
-        group: 'CI' with: #('Cryptography' 'PasswordHashingFFI');
+        group: 'CI' with: #('Cryptography');
         yourself ].
   spec
     for: #(#'gs3.0.x' #'gs3.1.x')
