@@ -20,6 +20,3 @@ GsDeployer deploy: [
     load: #('Cryptography')
 ].
 ```
-
-## PasswordHashingFFI 
-Requires libxcrypt.so.
