@@ -10,7 +10,7 @@ encodeValue: anObject withDERStream: derStream
 	hh :=  roundedTime hour asString padded: #left to: 2 with: $0.
 	mm :=  roundedTime minute asString padded: #left to: 2 with: $0.
 	"SmallDateAndTime answers ScaledDecimal s6 for seconds to get an integer."
-	ss :=  roundedTime seconds truncate asString padded: #left to: 2 with: $0.
+	ss :=  roundedTime seconds rounded asString padded: #left to: 2 with: $0.
 	utcDateTime := (yy, mo, dd, hh, mm, ss, 'Z') asByteArray.
 	derStream nextPutAll: utcDateTime.
 
