@@ -10,11 +10,12 @@ baseline: spec
               spec
                 loads: #('GsSqueakCommon');
                 repository: 'github://glassdb/glass:master/repository' ];
-        configuration: 'GsPharo'
+        baseline: 'GsPharo'
           with: [ 
               spec
-                version: '0.9.3';
-                repository: 'http://seaside.gemtalksystems.com/ss/PharoCompat' ];
+                className: 'BaselineOfPharoCompatibility';
+                loads: #('GsPharo-Core');
+                repository: 'github://GsDevKit/PharoCompatibility' ];
         yourself.
       spec
         package: 'Cryptography'
